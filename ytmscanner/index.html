@@ -29,8 +29,8 @@
       },
       columns: [
         { data: "name" },
-        { data: "ytm" },
-        { data: "duration" },
+        { data: "ytm", render: (data, type,) => `${parseFloat(data).toFixed(2)} %` },
+        { data: "duration", render: (data, type,) => `${parseFloat(data).toFixed(2)} 년` },
       ],
       paging: false,
       indicator: true,
