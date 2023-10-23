@@ -2,102 +2,102 @@
   {
     "name": "TIGER 24-04 회사채(A+이상)액티브",
     "ytm": "4.26",
-    "duration": "0.45"
+    "duration": "0.44"
   },
   {
     "name": "TIGER 24-10 회사채(A+이상)액티브",
-    "ytm": "4.37",
-    "duration": "0.79"
+    "ytm": "4.39",
+    "duration": "0.78"
   },
   {
     "name": "TIGER 25-10 회사채(A+이상)액티브",
-    "ytm": "4.69",
+    "ytm": "4.73",
     "duration": "1.79"
   },
   {
     "name": "KODEX 23-12 은행채(AA+이상)액티브",
-    "ytm": "3.83",
-    "duration": "0.11"
+    "ytm": "3.8",
+    "duration": ""
   },
   {
     "name": "KODEX 24-12 은행채(AA+이상)액티브",
-    "ytm": "4.04",
-    "duration": "0.98"
+    "ytm": "3.85",
+    "duration": ""
   },
   {
     "name": "KODEX 25-11 회사채(A+이상)액티브",
     "ytm": "4.73",
-    "duration": "1.91"
+    "duration": ""
   },
   {
     "name": "KODEX 23-12 국고채액티브",
-    "ytm": "3.39",
-    "duration": "0.14"
+    "ytm": "3.4",
+    "duration": ""
   },
   {
     "name": "KODEX 33-06 국고채액티브",
     "ytm": "4.36",
-    "duration": "7.95"
+    "duration": ""
   },
   {
     "name": "KODEX 53-09 국고채액티브",
     "ytm": "4.27",
-    "duration": "16.84"
+    "duration": ""
   },
   {
     "name": "KBSTAR 머니마켓액티브",
-    "ytm": "4.27",
+    "ytm": "4.28",
     "duration": "0.15"
   },
   {
     "name": "KBSTAR 23-11 회사채(AA-이상)액티브",
-    "ytm": "3.96",
-    "duration": "0.06"
+    "ytm": "3.97",
+    "duration": "0.05"
   },
   {
     "name": "KBSTAR 25-03 회사채(AA-이상)액티브",
-    "ytm": "4.59",
+    "ytm": "4.62",
     "duration": "1.31"
   },
   {
     "name": "KBSTAR 25-11 회사채(AA-이상)액티브",
-    "ytm": "4.52",
+    "ytm": "4.56",
     "duration": "1.82"
   },
   {
     "name": "ACE 23-12 회사채(AA-이상)액티브",
-    "ytm": "4.1438828114",
-    "duration": "0.096832"
+    "ytm": "4.1172315696",
+    "duration": "0.093411"
   },
   {
     "name": "ACE 24-12 회사채(AA-이상)액티브",
-    "ytm": "4.7914769175",
-    "duration": "0.910502"
+    "ytm": "4.7942475987",
+    "duration": "0.902438"
   },
   {
     "name": "ACE 25-06 회사채(AA-이상)액티브",
-    "ytm": "4.8666315016",
-    "duration": "1.448048"
+    "ytm": "4.9012722483",
+    "duration": "1.439861"
   },
   {
     "name": "ACE 26-06 회사채(AA-이상)액티브",
-    "ytm": "5.1689180114",
-    "duration": "2.161634"
+    "ytm": "5.1998646018",
+    "duration": "2.153395"
   },
   {
     "name": "히어로즈 24-09 회사채(AA-이상)액티브",
-    "ytm": "4.416",
-    "duration": "1.006"
+    "ytm": "4.411",
+    "duration": "1.001"
   },
   {
     "name": "히어로즈 26-09 회사채(AA-이상)액티브",
-    "ytm": "4.747",
-    "duration": "2.854"
+    "ytm": "4.773",
+    "duration": "2.850"
   },
   {
     "name": "히어로즈 25-09 미국채권(AA-이상)액티브",
-    "ytm": "5.460",
-    "duration": "1.859"
+    "ytm": "5.439",
+    "duration": "1.856"
   },
   {
     "name": "SOL 25-09회사채(AA-이상)액티브",
@@ -111,7 +111,7 @@
   },
   {
     "name": "HANARO 32-10 국고채액티브",
-    "ytm": "4.30",
+    "ytm": "4.36",
     "duration": "9.2"
   }
 ]
