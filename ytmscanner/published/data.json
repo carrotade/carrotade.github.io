@@ -17,32 +17,32 @@
   {
     "name": "KODEX 23-12 은행채(AA+이상)액티브",
     "ytm": "3.8",
-    "duration": ""
+    "duration": "0.10"
   },
   {
     "name": "KODEX 24-12 은행채(AA+이상)액티브",
     "ytm": "3.85",
-    "duration": ""
+    "duration": "1.04"
   },
   {
     "name": "KODEX 25-11 회사채(A+이상)액티브",
     "ytm": "4.73",
-    "duration": ""
+    "duration": "1.90"
   },
   {
     "name": "KODEX 23-12 국고채액티브",
     "ytm": "3.4",
-    "duration": ""
+    "duration": "0.13"
   },
   {
     "name": "KODEX 33-06 국고채액티브",
     "ytm": "4.36",
-    "duration": ""
+    "duration": "7.93"
   },
   {
     "name": "KODEX 53-09 국고채액티브",
     "ytm": "4.27",
-    "duration": ""
+    "duration": "16.74"
   },
   {
     "name": "KBSTAR 머니마켓액티브",
