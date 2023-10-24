@@ -78,7 +78,7 @@
         <h1>YTM Scanner</h1>
       </div>
     </div>
-    <table id="infoTable" class="display compact" data-order='[[1, "desc"], [2, "asc"]]'>
+    <table id="infoTable" class="display compact" data-order='[[1, "desc"], [2, "asc"]]' data-paging="false" data-indicator="true">
     <thead>
       <tr>
         <th data-class-name="name">Name</th>
@@ -102,8 +102,6 @@
         { data: "ytm", render: (data, type,) => type === 'display' ? parseFloat(data).toFixed(2) : parseFloat(data) },
         { data: "duration", render: (data, type,) => type === 'display' ? parseFloat(data).toFixed(2) : parseFloat(data) },
       ],
-      paging: false,
-      indicator: true,
     })
   </script>
   </body>
