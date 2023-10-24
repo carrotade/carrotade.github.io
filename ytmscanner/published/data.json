@@ -6,43 +6,43 @@
   },
   {
     "name": "TIGER 24-10 회사채(A+이상)액티브",
-    "ytm": "4.39",
+    "ytm": "4.37",
     "duration": "0.78"
   },
   {
     "name": "TIGER 25-10 회사채(A+이상)액티브",
-    "ytm": "4.73",
-    "duration": "1.79"
+    "ytm": "4.69",
+    "duration": "1.78"
   },
   {
     "name": "KODEX 23-12 은행채(AA+이상)액티브",
-    "ytm": "3.81",
-    "duration": "0.10"
+    "ytm": "3.82",
+    "duration": ""
   },
   {
     "name": "KODEX 24-12 은행채(AA+이상)액티브",
-    "ytm": "4.1",
-    "duration": "1.04"
+    "ytm": "3.92",
+    "duration": ""
   },
   {
     "name": "KODEX 25-11 회사채(A+이상)액티브",
     "ytm": "4.77",
-    "duration": "1.90"
+    "duration": ""
   },
   {
     "name": "KODEX 23-12 국고채액티브",
     "ytm": "3.38",
-    "duration": "0.13"
+    "duration": ""
   },
   {
     "name": "KODEX 33-06 국고채액티브",
     "ytm": "4.26",
-    "duration": "7.93"
+    "duration": ""
   },
   {
     "name": "KODEX 53-09 국고채액티브",
     "ytm": "4.19",
-    "duration": "16.74"
+    "duration": ""
   },
   {
     "name": "KBSTAR 머니마켓액티브",
@@ -51,18 +51,18 @@
   },
   {
     "name": "KBSTAR 23-11 회사채(AA-이상)액티브",
-    "ytm": "3.97",
+    "ytm": "3.96",
     "duration": "0.05"
   },
   {
     "name": "KBSTAR 25-03 회사채(AA-이상)액티브",
-    "ytm": "4.62",
-    "duration": "1.31"
+    "ytm": "4.59",
+    "duration": "1.30"
   },
   {
     "name": "KBSTAR 25-11 회사채(AA-이상)액티브",
-    "ytm": "4.56",
-    "duration": "1.82"
+    "ytm": "4.53",
+    "duration": "1.81"
   },
   {
     "name": "ACE 23-12 회사채(AA-이상)액티브",
