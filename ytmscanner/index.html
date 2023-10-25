@@ -99,8 +99,30 @@
       },
       columns: [
         { data: "name" },
-        { data: "ytm", render: (data, type,) => type === 'display' ? parseFloat(data).toFixed(2) : parseFloat(data) },
-        { data: "duration", render: (data, type,) => type === 'display' ? parseFloat(data).toFixed(2) : parseFloat(data) },
+        {
+          data: "ytm",
+          render: (data, type,) => {
+            if (type === 'display') {
+              if (!data.synced || data.value === null)
+                return `<span title="${data.ts}" style="text-decoration: line-through; color: gray;">&#x26A0;${parseFloat(data.value).toFixed(2)}</span>`;
+              else
+                return `<span>${parseFloat(data.value).toFixed(2)}</span>`;
+            }
+            return parseFloat(data.value);
+          }
+        },
+        {
+          data: "duration",
+          render: (data, type,) => {
+            if (type === 'display') {
+              if (!data.synced || data.value === null)
+                return `<span title="${data.ts}" style="text-decoration: line-through; color: gray;">&#x26A0;${parseFloat(data.value).toFixed(2)}</span>`;
+              else
+                return `<span>${parseFloat(data.value).toFixed(2)}</span>`;
+            }
+            return parseFloat(data.value);
+          }
+        },
       ],
     })
   </script>
