@@ -1,117 +1,301 @@
 [
   {
-    "name": "TIGER 24-04 회사채(A+이상)액티브",
-    "ytm": "4.26",
-    "duration": "0.44"
+    "name":"TIGER 24-04 회사채(A+이상)액티브",
+    "ytm":{
+      "value":"4.26",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":"0.44",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "TIGER 24-10 회사채(A+이상)액티브",
-    "ytm": "4.37",
-    "duration": "0.78"
+    "name":"TIGER 24-10 회사채(A+이상)액티브",
+    "ytm":{
+      "value":"4.37",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":"0.78",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "TIGER 25-10 회사채(A+이상)액티브",
-    "ytm": "4.69",
-    "duration": "1.78"
+    "name":"TIGER 25-10 회사채(A+이상)액티브",
+    "ytm":{
+      "value":"4.69",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":"1.78",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "KODEX 23-12 은행채(AA+이상)액티브",
-    "ytm": "3.82",
-    "duration": "0.10"
+    "name":"KODEX 23-12 은행채(AA+이상)액티브",
+    "ytm":{
+      "value":"3.82",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":"0.10",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "KODEX 24-12 은행채(AA+이상)액티브",
-    "ytm": "3.94",
-    "duration": "0.87"
+    "name":"KODEX 24-12 은행채(AA+이상)액티브",
+    "ytm":{
+      "value":"3.94",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":"0.87",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "KODEX 25-11 회사채(A+이상)액티브",
-    "ytm": "4.74",
-    "duration": "1.90"
+    "name":"KODEX 25-11 회사채(A+이상)액티브",
+    "ytm":{
+      "value":"4.74",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":"1.90",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "KODEX 23-12 국고채액티브",
-    "ytm": "3.39",
-    "duration": "0.13"
+    "name":"KODEX 23-12 국고채액티브",
+    "ytm":{
+      "value":"3.39",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":"0.13",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "KODEX 33-06 국고채액티브",
-    "ytm": "4.25",
-    "duration": "7.94"
+    "name":"KODEX 33-06 국고채액티브",
+    "ytm":{
+      "value":"4.25",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":"7.94",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "KODEX 53-09 국고채액티브",
-    "ytm": "4.21",
-    "duration": "16.86"
+    "name":"KODEX 53-09 국고채액티브",
+    "ytm":{
+      "value":"4.21",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":"16.86",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "KBSTAR 머니마켓액티브",
-    "ytm": "4.28",
-    "duration": "0.15"
+    "name":"KBSTAR 머니마켓액티브",
+    "ytm":{
+      "value":"4.28",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":"0.15",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "KBSTAR 23-11 회사채(AA-이상)액티브",
-    "ytm": "3.96",
-    "duration": "0.05"
+    "name":"KBSTAR 23-11 회사채(AA-이상)액티브",
+    "ytm":{
+      "value":"3.96",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":"0.05",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "KBSTAR 25-03 회사채(AA-이상)액티브",
-    "ytm": "4.59",
-    "duration": "1.30"
+    "name":"KBSTAR 25-03 회사채(AA-이상)액티브",
+    "ytm":{
+      "value":"4.59",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":"1.30",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "KBSTAR 25-11 회사채(AA-이상)액티브",
-    "ytm": "4.53",
-    "duration": "1.81"
+    "name":"KBSTAR 25-11 회사채(AA-이상)액티브",
+    "ytm":{
+      "value":"4.53",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":"1.81",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "ACE 23-12 회사채(AA-이상)액티브",
-    "ytm": "4.1104332429",
-    "duration": "0.090654"
+    "name":"ACE 23-12 회사채(AA-이상)액티브",
+    "ytm":{
+      "value":"4.1104332429",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":"0.090654",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "ACE 24-12 회사채(AA-이상)액티브",
-    "ytm": "4.7756112309",
-    "duration": "0.899775"
+    "name":"ACE 24-12 회사채(AA-이상)액티브",
+    "ytm":{
+      "value":"4.7756112309",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":"0.899775",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "ACE 25-06 회사채(AA-이상)액티브",
-    "ytm": "4.8584777069",
-    "duration": "1.437392"
+    "name":"ACE 25-06 회사채(AA-이상)액티브",
+    "ytm":{
+      "value":"4.8584777069",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":"1.437392",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "ACE 26-06 회사채(AA-이상)액티브",
-    "ytm": "5.1494503173",
-    "duration": "2.151179"
+    "name":"ACE 26-06 회사채(AA-이상)액티브",
+    "ytm":{
+      "value":"5.1494503173",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":"2.151179",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "히어로즈 24-09 회사채(AA-이상)액티브",
-    "ytm": "",
-    "duration": ""
+    "name":"히어로즈 24-09 회사채(AA-이상)액티브",
+    "ytm":{
+      "value":null,
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":null,
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "히어로즈 26-09 회사채(AA-이상)액티브",
-    "ytm": "4.749",
-    "duration": "2.847"
+    "name":"히어로즈 26-09 회사채(AA-이상)액티브",
+    "ytm":{
+      "value":"4.749",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":"2.847",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "히어로즈 25-09 미국채권(AA-이상)액티브",
-    "ytm": "",
-    "duration": ""
+    "name":"히어로즈 25-09 미국채권(AA-이상)액티브",
+    "ytm":{
+      "value":null,
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":null,
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "SOL 25-09회사채(AA-이상)액티브",
-    "ytm": "",
-    "duration": ""
+    "name":"SOL 25-09회사채(AA-이상)액티브",
+    "ytm":{
+      "value":"4.81",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":"1.76",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "SOL 24-06 국고채 액티브",
-    "ytm": "",
-    "duration": ""
+    "name":"SOL 24-06 국고채 액티브",
+    "ytm":{
+      "value":"3.63",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":"0.72",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   },
   {
-    "name": "HANARO 32-10 국고채액티브",
-    "ytm": "4.25",
-    "duration": "9.2"
+    "name":"HANARO 32-10 국고채액티브",
+    "ytm":{
+      "value":"4.25",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    },
+    "duration":{
+      "value":"9.2",
+      "synced":true,
+      "ts":"2023-10-25T05:01:59Z"
+    }
   }
 ]
