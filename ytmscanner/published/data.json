@@ -2,78 +2,78 @@
   {
     "name":"TIGER 24-04 회사채(A+이상)액티브",
     "ytm":{
-      "value":"4.27",
-      "synced":false,
-      "ts":"2023-10-26T21:00:30Z"
+      "value":"4.28",
+      "synced":true,
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
-      "value":"0.44",
-      "synced":false,
-      "ts":"2023-10-26T21:00:30Z"
+      "value":"0.43",
+      "synced":true,
+      "ts":"2023-10-26T22:07:35Z"
     }
   },
   {
     "name":"TIGER 24-10 회사채(A+이상)액티브",
     "ytm":{
-      "value":"4.39",
-      "synced":false,
-      "ts":"2023-10-26T21:00:30Z"
+      "value":"4.41",
+      "synced":true,
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
       "value":"0.77",
-      "synced":false,
-      "ts":"2023-10-26T21:00:30Z"
+      "synced":true,
+      "ts":"2023-10-26T22:07:35Z"
     }
   },
   {
     "name":"TIGER 25-10 회사채(A+이상)액티브",
     "ytm":{
-      "value":"4.75",
-      "synced":false,
-      "ts":"2023-10-26T21:00:30Z"
+      "value":"4.79",
+      "synced":true,
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
       "value":"1.78",
-      "synced":false,
-      "ts":"2023-10-26T21:00:30Z"
+      "synced":true,
+      "ts":"2023-10-26T22:07:35Z"
     }
   },
   {
     "name":"KODEX 23-12 은행채(AA+이상)액티브",
     "ytm":{
-      "value":"3.77",
+      "value":"3.81",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
       "value":"0.09",
-      "synced":true,
+      "synced":false,
       "ts":"2023-10-26T21:30:31Z"
     }
   },
   {
     "name":"KODEX 24-12 은행채(AA+이상)액티브",
     "ytm":{
-      "value":"4.11",
+      "value":"4.03",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
       "value":"1.02",
-      "synced":true,
+      "synced":false,
       "ts":"2023-10-26T21:30:31Z"
     }
   },
   {
     "name":"KODEX 25-11 회사채(A+이상)액티브",
     "ytm":{
-      "value":"4.51",
+      "value":"4.04",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
       "value":"1.59",
-      "synced":true,
+      "synced":false,
       "ts":"2023-10-26T21:30:31Z"
     }
   },
@@ -82,11 +82,11 @@
     "ytm":{
       "value":"3.38",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
       "value":"0.12",
-      "synced":true,
+      "synced":false,
       "ts":"2023-10-26T21:30:31Z"
     }
   },
@@ -95,24 +95,24 @@
     "ytm":{
       "value":"4.39",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
       "value":"7.94",
-      "synced":true,
+      "synced":false,
       "ts":"2023-10-26T21:30:31Z"
     }
   },
   {
     "name":"KODEX 53-09 국고채액티브",
     "ytm":{
-      "value":"4.23",
+      "value":"4.21",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
       "value":"16.88",
-      "synced":true,
+      "synced":false,
       "ts":"2023-10-26T21:30:31Z"
     }
   },
@@ -121,51 +121,51 @@
     "ytm":{
       "value":"4.28",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
-      "value":"0.15",
+      "value":"0.14",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     }
   },
   {
     "name":"KBSTAR 23-11 회사채(AA-이상)액티브",
     "ytm":{
-      "value":"3.97",
+      "value":"3.95",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
       "value":"0.05",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     }
   },
   {
     "name":"KBSTAR 25-03 회사채(AA-이상)액티브",
     "ytm":{
-      "value":"4.63",
+      "value":"4.67",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
       "value":"1.30",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     }
   },
   {
     "name":"KBSTAR 25-11 회사채(AA-이상)액티브",
     "ytm":{
-      "value":"4.58",
+      "value":"4.63",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
       "value":"1.81",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     }
   },
   {
@@ -173,12 +173,12 @@
     "ytm":{
       "value":"4.1170476862",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
       "value":"0.085353",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     }
   },
   {
@@ -186,12 +186,12 @@
     "ytm":{
       "value":"4.8099727045",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
       "value":"0.894279",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     }
   },
   {
@@ -199,12 +199,12 @@
     "ytm":{
       "value":"4.9585738597",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
       "value":"1.431592",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     }
   },
   {
@@ -212,12 +212,12 @@
     "ytm":{
       "value":"5.2797319122",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
       "value":"2.144728",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     }
   },
   {
@@ -225,12 +225,12 @@
     "ytm":{
       "value":null,
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
       "value":null,
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     }
   },
   {
@@ -238,12 +238,12 @@
     "ytm":{
       "value":"4.865",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
       "value":"2.840",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     }
   },
   {
@@ -251,12 +251,12 @@
     "ytm":{
       "value":null,
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
       "value":null,
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     }
   },
   {
@@ -264,12 +264,12 @@
     "ytm":{
       "value":"4.86",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
       "value":"1.76",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     }
   },
   {
@@ -277,12 +277,12 @@
     "ytm":{
       "value":"3.62",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
       "value":"0.71",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     }
   },
   {
@@ -290,12 +290,12 @@
     "ytm":{
       "value":"4.38",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     },
     "duration":{
       "value":"9.2",
       "synced":true,
-      "ts":"2023-10-26T21:30:31Z"
+      "ts":"2023-10-26T22:07:35Z"
     }
   }
 ]
