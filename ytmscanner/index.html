@@ -60,6 +60,10 @@
         /* 필요한 경우, 글꼴, 크기, 스타일 등 추가 스타일 적용 가능 */
       }
 
+      .container {
+        padding: 0 0 0 0;
+      }
+
       #infoTable td.name {
         font-size: 0.7em;
       }
@@ -87,7 +91,7 @@
   <div class="container">
     <table id="infoTable" class="table table-sm table-striped table-bordered table-hover" style="width: 100%"
            data-order='[[1, "desc"], [2, "asc"]]' data-paging="false" data-indicator="true"
-           data-info="false" data-responsive="true">
+           data-info="false" data-responsive="true" data-searching="false">
     <thead>
       <tr>
         <th data-class-name="name">Name</th>
@@ -100,7 +104,7 @@
     </table>
     <div class="footer">
       <div>
-        YTM Scanner에서 제공하는 정보들은 참고용으로만 제공되며, 그 정확성이나 완전성을 보장하지 않습니다.
+        YTM Scanner에서 제공하는 정보들은 참고용이며 그 정확성이나 완전성을 보장하지 않습니다.
       </div>
       <div>
         투자에 대한 모든 책임은 본인에게 있습니다.
