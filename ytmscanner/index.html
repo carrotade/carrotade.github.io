@@ -81,17 +81,22 @@
         padding: 0 0 0 0;
       }
 
+      #infoTable th {
+        font-size: 0.8em;
+      }
+
+      #infoTable th.duration {
+        font-size: 0.5em;
+      }
+
       #infoTable td.name {
         font-size: 0.7em;
       }
-      #infoTable td.ytm {
+      #infoTable td.ytm, #infoTable td.duration, #infoTable td.marketcap, #infoTable td.fundfee {
         text-align: right;
       }
-      #infoTable td.ytm::after {
+      #infoTable td.ytm::after, #infoTable td.fundfee::after {
         content: '%';
-      }
-      #infoTable td.duration {
-        text-align: right;
       }
 
       .footer {
@@ -118,6 +123,8 @@
         <th data-class-name="name">종목명</th>
         <th data-class-name="ytm">YTM</th>
         <th data-class-name="duration">듀레이션</th>
+        <th data-class-name="marketcap">시총</th>
+        <th data-class-name="fundfee">보수</th>
       </tr>
     </thead>
     <tbody>
@@ -137,6 +144,15 @@
   </div>
 
   <script>
+    var synced_render = (display) => (data, type,) => {
+      if (type === 'display') {
+        if (!data.synced || data.value === null)
+          return `<span title="${data.ts}" style="text-decoration: line-through; color: gray;">&#x26A0;${display(data.value)}</span>`;
+        else
+          return `<span>${display(data.value)}</span>`;
+      }
+      return parseFloat(data.value);
+    };
     $('#infoTable').DataTable({
       ajax: {
         url: 'published/data.json',
@@ -144,30 +160,10 @@
       },
       columns: [
         { data: "name" },
-        {
-          data: "ytm",
-          render: (data, type,) => {
-            if (type === 'display') {
-              if (!data.synced || data.value === null)
-                return `<span title="${data.ts}" style="text-decoration: line-through; color: gray;">&#x26A0;${parseFloat(data.value).toFixed(2)}</span>`;
-              else
-                return `<span>${parseFloat(data.value).toFixed(2)}</span>`;
-            }
-            return parseFloat(data.value);
-          }
-        },
-        {
-          data: "duration",
-          render: (data, type,) => {
-            if (type === 'display') {
-              if (!data.synced || data.value === null)
-                return `<span title="${data.ts}" style="text-decoration: line-through; color: gray;">&#x26A0;${parseFloat(data.value).toFixed(2)}</span>`;
-              else
-                return `<span>${parseFloat(data.value).toFixed(2)}</span>`;
-            }
-            return parseFloat(data.value);
-          }
-        },
+        {data: "ytm", render: synced_render((value) => parseFloat(value).toFixed(2)) },
+        {data: "duration", render: synced_render((value) => parseFloat(value).toFixed(2)) },
+        {data: "marketcap", render: synced_render((value) => parseInt(value).toLocaleString()) },
+        {data: "fundfee", render: synced_render((value) => parseFloat(value).toFixed(2)) },
       ],
     })
   </script>
