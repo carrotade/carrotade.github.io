@@ -122,14 +122,12 @@
 
       #infoTable th.duration {
         font-size: 0.5em;
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis;
       }
 
       #infoTable td.name {
         font-size: 0.7em;
       }
+
       #infoTable td.ytm, #infoTable td.duration, #infoTable td.marketcap, #infoTable td.fundfee {
         text-align: right;
       }
@@ -143,6 +141,24 @@
         font-size: 0.6em;
         word-break: keep-all;
         overflow-wrap: break-word;
+      }
+
+      @media (min-width: 768px) {
+        .title-container h1 {
+          font-size: 3em;
+        }
+
+        #infoTable th {
+          font-size: 1em;
+        }
+
+        #infoTable th.duration {
+          font-size: 1em;
+        }
+
+        #infoTable td.name {
+          font-size: 1em;
+        }
       }
     </style>
   </head>
