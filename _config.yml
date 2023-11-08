@@ -32,6 +32,9 @@ baseurl: ""
 
 #google_analytics: UA-XXXXX-X
 
+gtm: GTM-56D3BR9V
+ga4: G-FD3C1MLYHX
+
 # social icons and sharing options
 social:
   # - icon:	twitter

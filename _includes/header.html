@@ -1,4 +1,5 @@
 <!-- header start -->
+{% if site.gtm %}{% include gtm_body.html %}{% endif %}
 
 {% if site.float_logo %}
   <a href="{{ site.url }}{{ site.baseurl }}" class="logo-readium"><span class="logo" style="background-image: url({{ site.logo }})"></span></a>
