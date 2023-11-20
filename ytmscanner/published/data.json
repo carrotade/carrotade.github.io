@@ -672,29 +672,6 @@
     }
   },
   {
-    "name":"TIGER 24-12 금융채(AA-이상)액티브",
-    "fundfee":{
-      "value":null,
-      "synced":true,
-      "ts":"2023-11-20T08:54:17Z"
-    },
-    "marketcap":{
-      "value":null,
-      "synced":true,
-      "ts":"2023-11-20T08:54:17Z"
-    },
-    "ytm":{
-      "value":null,
-      "synced":true,
-      "ts":"2023-11-20T08:54:17Z"
-    },
-    "duration":{
-      "value":null,
-      "synced":true,
-      "ts":"2023-11-20T08:54:17Z"
-    }
-  },
-  {
     "name":"TIGER 24-12 금융채(AA-이상)",
     "fundfee":{
       "value":null,
