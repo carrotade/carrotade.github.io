@@ -674,7 +674,7 @@
   {
     "name":"TIGER 24-12 금융채(AA-이상)",
     "fundfee":{
-      "value":"N/A",
+      "value":null,
       "synced":true,
       "ts":"2023-11-21T07:03:52Z"
     },
