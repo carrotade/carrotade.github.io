@@ -134,6 +134,12 @@
       #infoTable td.ytm::after, #infoTable td.fundfee::after {
         content: '%';
       }
+
+      #infoTable span.invalid-data {
+        text-decoration: line-through;
+        color: gray;
+      }
+
       #contact {
         margin: 30 0 10 0
       }
@@ -209,7 +215,7 @@
     var synced_render = (display) => (data, type,) => {
       if (type === 'display') {
         if (!data.synced || data.value === null)
-          return `<span title="${data.ts}" style="text-decoration: line-through; color: gray;">&#x26A0;${display(data.value)}</span>`;
+          return `<span title="${data.ts}" class="invalid-data">&#x26A0;${display(data.value)}</span>`;
         else
           return `<span>${display(data.value)}</span>`;
       }
@@ -227,6 +233,10 @@
         {data: "marketcap", render: synced_render((value) => parseInt(value).toLocaleString()) },
         {data: "fundfee", render: synced_render((value) => parseFloat(value).toFixed(2)) },
       ],
+      rowCallback: function(row, data) {
+        if (!data.listed)
+          $(row).hide();
+      },
     })
   </script>
   </body>
