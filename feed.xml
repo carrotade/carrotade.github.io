@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>carrotade</title>
+    <description>carrotade blog
+</description>
+    <link>https://carrotade.com/</link>
+    <atom:link href="https://carrotade.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 22 Nov 2023 07:25:11 +0000</pubDate>
+    <lastBuildDate>Wed, 22 Nov 2023 07:25:11 +0000</lastBuildDate>
+    <generator>Jekyll v3.9.3</generator>
+    
+  </channel>
+</rss>
