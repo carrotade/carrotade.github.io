@@ -17,6 +17,11 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2023-12-01",
+     "ytm":"4.19",
+     "duration":"0.34"
+    },
+    {
      "date":"2023-11-30",
      "ytm":"4.21",
      "duration":"0.34",
@@ -58,6 +63,11 @@
    "personal_pension":true,
    "retirement_pension":true,
    "dynamic":[
+    {
+     "date":"2023-12-01",
+     "ytm":"4.22",
+     "duration":"0.68"
+    },
     {
      "date":"2023-11-30",
      "ytm":"4.24",
@@ -101,6 +111,11 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2023-12-01",
+     "ytm":"4.25",
+     "duration":"1.68"
+    },
+    {
      "date":"2023-11-30",
      "ytm":"4.28",
      "duration":"1.69",
@@ -136,6 +151,11 @@
    "personal_pension":true,
    "retirement_pension":true,
    "dynamic":[
+    {
+     "date":"2023-12-01",
+     "ytm":"2.85",
+     "duration":"0.03"
+    },
     {
      "date":"2023-11-30",
      "ytm":"2.86",
@@ -480,12 +500,12 @@
    "dynamic":[
     {
      "date":"2023-12-01",
-     "ytm":"4.45",
+     "ytm":"4.33",
      "duration":"0.17",
-     "price":"51215",
-     "nav":"51190",
-     "volume":"215840",
-     "marketcap":"1506649914409"
+     "price":"51220",
+     "nav":"51204",
+     "volume":"108812",
+     "marketcap":"1503247574034"
     },
     {
      "date":"2023-11-30",
@@ -541,11 +561,11 @@
     {
      "date":"2023-12-01",
      "ytm":"4.17",
-     "duration":"1.13",
-     "price":"50530",
-     "nav":"50513",
-     "volume":"1927",
-     "marketcap":"163864206013"
+     "duration":"1.18",
+     "price":"50545",
+     "nav":"50537",
+     "volume":"6136",
+     "marketcap":"164145793225"
     },
     {
      "date":"2023-11-30",
@@ -589,12 +609,12 @@
    "dynamic":[
     {
      "date":"2023-12-01",
-     "ytm":"4.18",
-     "duration":"1.66",
-     "price":"52415",
-     "nav":"52426",
-     "volume":"3124",
-     "marketcap":"154658860915"
+     "ytm":"4.16",
+     "duration":"1.65",
+     "price":"52455",
+     "nav":"52458",
+     "volume":"4311",
+     "marketcap":"155277980733"
     },
     {
      "date":"2023-11-30",
@@ -630,8 +650,14 @@
    "info_url":"https://www.aceetf.co.kr/fund/K55101DY6937",
    "dynamic":[
     {
+     "date":"2023-12-02",
+     "ytm":"3.7838551662",
+     "duration":"0.023266",
+     "nav":"105789.61"
+    },
+    {
      "date":"2023-11-30",
-     "ytm":"4.2368430641",
+     "ytm":"3.79",
      "duration2":"0.0164031467",
      "price":"105755",
      "nav":"105757.21",
@@ -672,6 +698,12 @@
   "provider":{
    "info_url":"https://www.aceetf.co.kr/fund/K55101DY6945",
    "dynamic":[
+    {
+     "date":"2023-12-02",
+     "ytm":"4.5250225995",
+     "duration":"0.822119",
+     "nav":"107929.94"
+    },
     {
      "date":"2023-11-30",
      "ytm":"4.5242373519",
@@ -716,6 +748,12 @@
    "info_url":"https://www.aceetf.co.kr/fund/K55101E34378",
    "dynamic":[
     {
+     "date":"2023-12-02",
+     "ytm":"4.3855533074",
+     "duration":"1.317691",
+     "nav":"10210.9"
+    },
+    {
      "date":"2023-11-30",
      "ytm":"4.3991815666",
      "duration2":"1.8468435183",
@@ -758,6 +796,12 @@
   "provider":{
    "info_url":"https://www.aceetf.co.kr/fund/K55101E34386",
    "dynamic":[
+    {
+     "date":"2023-12-02",
+     "ytm":"4.4575603557",
+     "duration":"2.024317",
+     "nav":"10221.83"
+    },
     {
      "date":"2023-11-30",
      "ytm":"4.4736424965",
@@ -807,6 +851,13 @@
    "personal_pension":true,
    "retirement_pension":true,
    "dynamic":[
+    {
+     "date":"2023-12-02",
+     "price":"50620",
+     "marketcap":"188710000000",
+     "ytm":"4.325",
+     "duration":"0.747"
+    },
     {
      "date":"2023-12-01",
      "price":"50620",
@@ -859,6 +910,13 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2023-12-02",
+     "price":"50830",
+     "marketcap":"61967999999",
+     "ytm":"4.215",
+     "duration":"2.927"
+    },
+    {
      "date":"2023-12-01",
      "price":"50830",
      "marketcap":"61967999999",
@@ -909,6 +967,13 @@
    "personal_pension":true,
    "retirement_pension":true,
    "dynamic":[
+    {
+     "date":"2023-12-02",
+     "price":"48655",
+     "marketcap":"11674000000",
+     "ytm":"4.978",
+     "duration":"1.731"
+    },
     {
      "date":"2023-12-01",
      "price":"48655",
@@ -1052,6 +1117,14 @@
    "distribution":"연1회(매년 12월 예정) ※변경가능",
    "dynamic":[
     {
+     "date":"2023-12-03",
+     "ytm":"3.69",
+     "duration":"9.2",
+     "price":"52660.00",
+     "nav":"52607.82",
+     "marketcap":"52608000000"
+    },
+    {
      "date":"2023-11-30",
      "ytm":"3.69",
      "duration":"9.3",
@@ -1128,6 +1201,13 @@
    "launch_date":"2023-09-18",
    "dynamic":[
     {
+     "date":"2023-12-02",
+     "ytm":"4.02",
+     "duration":"2.76",
+     "nav":"101781.16",
+     "marketcap":"74300246660"
+    },
+    {
      "date":"2023-11-30",
      "ytm":"4.01",
      "duration":"2.76",
@@ -1163,8 +1243,8 @@
   "provider":{
    "info_url":"https://www.bnkasset.co.kr/product/mo_view4.aspx?fund_cd=70004&pgbn=8",
    "fundfee":"0.1",
-   "listing_date":"2023-11-14",
-   "distribution":"회계기간종료일",
+   "listing_date":null,
+   "distribution":"",
    "dynamic":[
     {
      "date":"2023-11-30",
@@ -1261,6 +1341,11 @@
    "personal_pension":true,
    "retirement_pension":true,
    "dynamic":[
+    {
+     "date":"2023-12-01",
+     "ytm":"4.18",
+     "duration":"1.00"
+    },
     {
      "date":"2023-11-30",
      "ytm":"4.21",
