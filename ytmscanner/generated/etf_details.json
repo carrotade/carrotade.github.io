@@ -1214,6 +1214,11 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2023-12-03",
+     "price":"50785.0",
+     "nav":"50810.0"
+    },
+    {
      "date":"2023-12-01",
      "ytm":"4.35"
     },
@@ -1269,6 +1274,11 @@
    "personal_pension":true,
    "retirement_pension":true,
    "dynamic":[
+    {
+     "date":"2023-12-03",
+     "price":"103540.0",
+     "nav":"103538.32"
+    },
     {
      "date":"2023-12-01",
      "ytm":"3.60"
@@ -1364,6 +1374,11 @@
    "code":"468820",
    "launch_date":"2023-10-17",
    "dynamic":[
+    {
+     "date":"2023-12-01",
+     "ytm":"4.66",
+     "duration":"1.73"
+    },
     {
      "date":"2023-11-30",
      "nav":"50812.22",
@@ -1530,6 +1545,11 @@
    "personal_pension":true,
    "retirement_pension":true,
    "dynamic":[
+    {
+     "date":"2023-12-03",
+     "price":"50280.0",
+     "nav":"50279.97"
+    },
     {
      "date":"2023-12-01",
      "ytm":"4.43"
