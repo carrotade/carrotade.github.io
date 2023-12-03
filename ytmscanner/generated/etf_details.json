@@ -206,7 +206,7 @@
    "dynamic":[
     {
      "date":"2023-12-01",
-     "ytm":"3.32",
+     "ytm":"3.29",
      "duration":"0.01",
      "price":"10490",
      "nav":"10488.11",
@@ -354,7 +354,7 @@
     {
      "date":"2023-12-01",
      "ytm":"3.24",
-     "duration":"0.03",
+     "duration":"0.02",
      "price":"10400",
      "nav":"10396.58",
      "volume":"1319"
@@ -499,6 +499,15 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2023-12-04",
+     "ytm":"4.33",
+     "duration":"0.17",
+     "price":"51220",
+     "nav":"51204",
+     "volume":"108812",
+     "marketcap":"1503247574034"
+    },
+    {
      "date":"2023-12-01",
      "ytm":"4.33",
      "duration":"0.17",
@@ -559,6 +568,15 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2023-12-04",
+     "ytm":"4.17",
+     "duration":"1.18",
+     "price":"50545",
+     "nav":"50537",
+     "volume":"6136",
+     "marketcap":"164145793225"
+    },
+    {
      "date":"2023-12-01",
      "ytm":"4.17",
      "duration":"1.18",
@@ -607,6 +625,15 @@
    "personal_pension":true,
    "retirement_pension":true,
    "dynamic":[
+    {
+     "date":"2023-12-04",
+     "ytm":"4.16",
+     "duration":"1.65",
+     "price":"52455",
+     "nav":"52458",
+     "volume":"4311",
+     "marketcap":"155277980733"
+    },
     {
      "date":"2023-12-01",
      "ytm":"4.16",
@@ -852,6 +879,13 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2023-12-03",
+     "price":"50620",
+     "marketcap":"188710000000",
+     "ytm":"4.325",
+     "duration":"0.747"
+    },
+    {
      "date":"2023-12-02",
      "price":"50620",
      "marketcap":"188710000000",
@@ -910,6 +944,13 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2023-12-03",
+     "price":"50830",
+     "marketcap":"61967999999",
+     "ytm":"4.215",
+     "duration":"2.927"
+    },
+    {
      "date":"2023-12-02",
      "price":"50830",
      "marketcap":"61967999999",
@@ -967,6 +1008,13 @@
    "personal_pension":true,
    "retirement_pension":true,
    "dynamic":[
+    {
+     "date":"2023-12-03",
+     "price":"48655",
+     "marketcap":"11674000000",
+     "ytm":"4.978",
+     "duration":"1.731"
+    },
     {
      "date":"2023-12-02",
      "price":"48655",
@@ -1243,9 +1291,17 @@
   "provider":{
    "info_url":"https://www.bnkasset.co.kr/product/mo_view4.aspx?fund_cd=70004&pgbn=8",
    "fundfee":"0.1",
-   "listing_date":null,
-   "distribution":"",
+   "listing_date":"2023-11-14",
+   "distribution":"회계기간종료일",
    "dynamic":[
+    {
+     "date":"2023-12-02",
+     "ytm":"4.28",
+     "duration":"0.93",
+     "nav":"50282.76",
+     "marketcap":"115348658942",
+     "price":"50280.00"
+    },
     {
      "date":"2023-11-30",
      "ytm":"4.30",
