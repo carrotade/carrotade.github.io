@@ -4,23 +4,23 @@
     "ytm":{
       "value":"4.19",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"0.34",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"453530",
     "fundfee":{
       "value":"0.100",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"4851",
+      "value":"4867",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -30,23 +30,23 @@
     "ytm":{
       "value":"4.22",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"0.68",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"447820",
     "fundfee":{
       "value":"0.100",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"5815",
+      "value":"5836",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -56,23 +56,23 @@
     "ytm":{
       "value":"4.25",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"1.68",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"453540",
     "fundfee":{
       "value":"0.100",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"4536",
+      "value":"4558",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -82,23 +82,23 @@
     "ytm":{
       "value":"3.29",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"0.01",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"448320",
     "fundfee":{
       "value":"0.050",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"8626",
+      "value":"8170",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -106,25 +106,25 @@
   {
     "name":"KODEX 24-12 은행채(AA+이상)액티브",
     "ytm":{
-      "value":"3.96",
+      "value":"3.95",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"0.93",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"465680",
     "fundfee":{
       "value":"0.050",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
       "value":"19051",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -132,25 +132,25 @@
   {
     "name":"KODEX 25-11 회사채(A+이상)액티브",
     "ytm":{
-      "value":"4.16",
+      "value":"4.14",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"1.74",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"467940",
     "fundfee":{
       "value":"0.090",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"3034",
+      "value":"3042",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -158,25 +158,25 @@
   {
     "name":"KODEX 23-12 국고채액티브",
     "ytm":{
-      "value":"3.24",
+      "value":"3.23",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"0.02",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"448310",
     "fundfee":{
       "value":"0.050",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"928",
+      "value":"823",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -184,25 +184,25 @@
   {
     "name":"KODEX 33-06 국고채액티브",
     "ytm":{
-      "value":"3.68",
+      "value":"3.62",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"7.78",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"457690",
     "fundfee":{
       "value":"0.150",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"100",
+      "value":"101",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -210,25 +210,25 @@
   {
     "name":"KODEX 53-09 국고채액티브",
     "ytm":{
-      "value":"3.53",
+      "value":"3.49",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"17.26",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"457700",
     "fundfee":{
       "value":"0.150",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"150",
+      "value":"151",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -238,23 +238,23 @@
     "ytm":{
       "value":"4.33",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"0.17",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"455890",
     "fundfee":{
       "value":"0.050",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"15075",
+      "value":"15039",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -290,23 +290,23 @@
     "ytm":{
       "value":"4.17",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"1.18",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"464540",
     "fundfee":{
       "value":"0.050",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"1640",
+      "value":"1643",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -316,23 +316,23 @@
     "ytm":{
       "value":"4.16",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"1.65",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"448600",
     "fundfee":{
       "value":"0.070",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"1547",
+      "value":"1555",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -342,23 +342,23 @@
     "ytm":{
       "value":"3.7816440882",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"0.023266",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"448870",
     "fundfee":{
       "value":"0.050",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"1125",
+      "value":"1126",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -368,23 +368,23 @@
     "ytm":{
       "value":"4.5250276986",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"0.822119",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"448880",
     "fundfee":{
       "value":"0.050",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"1358",
+      "value":"1359",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -394,23 +394,23 @@
     "ytm":{
       "value":"4.3855611754",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"1.317692",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"461260",
     "fundfee":{
       "value":"0.050",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"783",
+      "value":"784",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -420,23 +420,23 @@
     "ytm":{
       "value":"4.4575690796",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"2.024318",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"461270",
     "fundfee":{
       "value":"0.050",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"1069",
+      "value":"1076",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -446,23 +446,23 @@
     "ytm":{
       "value":"4.136",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"0.739",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"464230",
     "fundfee":{
       "value":"0.050",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"1888",
+      "value":"1889",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -472,23 +472,23 @@
     "ytm":{
       "value":"3.047",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"2.391",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"464240",
     "fundfee":{
       "value":"0.070",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"620",
+      "value":"621",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -498,23 +498,23 @@
     "ytm":{
       "value":"4.999",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"1.722",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"467620",
     "fundfee":{
       "value":"0.290",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
       "value":"118",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -522,25 +522,25 @@
   {
     "name":"SOL 25-09회사채(AA-이상)액티브",
     "ytm":{
-      "value":"4.35",
+      "value":"4.42",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
-      "value":"1.46",
+      "value":"1.59",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"462540",
     "fundfee":{
       "value":"0.050",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"1267",
+      "value":"1269",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -550,23 +550,23 @@
     "ytm":{
       "value":"3.60",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"0.45",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"449540",
     "fundfee":{
       "value":"0.050",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
       "value":"112",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -576,23 +576,23 @@
     "ytm":{
       "value":"3.69",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"9.2",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"448490",
     "fundfee":{
       "value":"0.050",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"527",
+      "value":"529",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -602,23 +602,23 @@
     "ytm":{
       "value":"2.85",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"0.03",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"447780",
     "fundfee":{
       "value":"0.070",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"2180",
+      "value":"1972",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -629,22 +629,22 @@
     "fundfee":{
       "value":"0.050",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"1046",
+      "value":"1048",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "ytm":{
-      "value":"4.68",
+      "value":"4.66",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
-      "value":"1.74",
+      "value":"1.73",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -655,22 +655,22 @@
     "fundfee":{
       "value":"0.060",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
       "value":"743",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "ytm":{
       "value":"4.02",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"2.76",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -681,22 +681,22 @@
     "fundfee":{
       "value":"0.100",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"1153",
+      "value":"1154",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "ytm":{
       "value":"4.28",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"0.92",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -707,22 +707,22 @@
     "fundfee":{
       "value":"0.050",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"1575",
+      "value":"1676",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "ytm":{
-      "value":"4.43",
+      "value":"4.40",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
-      "value":"0.96",
+      "value":"0.95",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "listed":true,
     "live":true
@@ -732,22 +732,22 @@
     "fundfee":{
       "value":"0.100",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "marketcap":{
-      "value":"3733",
+      "value":"3734",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "ytm":{
       "value":"4.18",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "duration":{
       "value":"1.00",
       "synced":true,
-      "ts":"2023-12-03T22:07:48Z"
+      "ts":"2023-12-04T01:04:03Z"
     },
     "code":"470260",
     "listed":true,
