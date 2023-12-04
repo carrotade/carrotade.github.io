@@ -45,6 +45,10 @@
    "fundfee":"0.100",
    "dynamic":[
     {
+     "date":"2023-12-05",
+     "marketcap":"486800000000"
+    },
+    {
      "date":"2023-12-04",
      "marketcap":"486800000000"
     },
@@ -104,6 +108,10 @@
    "info_url":"https://finance.naver.com/item/main.naver?code=447820",
    "fundfee":"0.100",
    "dynamic":[
+    {
+     "date":"2023-12-05",
+     "marketcap":"583700000000"
+    },
     {
      "date":"2023-12-04",
      "marketcap":"583700000000"
@@ -165,6 +173,10 @@
    "fundfee":"0.100",
    "dynamic":[
     {
+     "date":"2023-12-05",
+     "marketcap":"456300000000"
+    },
+    {
      "date":"2023-12-04",
      "marketcap":"455800000000"
     },
@@ -225,6 +237,10 @@
    "fundfee":"0.070",
    "dynamic":[
     {
+     "date":"2023-12-05",
+     "marketcap":"167900000000"
+    },
+    {
      "date":"2023-12-04",
      "marketcap":"197200000000"
     },
@@ -259,7 +275,7 @@
     {
      "date":"2023-12-04",
      "ytm":"3.17",
-     "duration":"",
+     "duration":"0.00",
      "price":"10490",
      "nav":"10490.5",
      "volume":"29770"
@@ -285,6 +301,10 @@
    "info_url":"https://finance.naver.com/item/main.naver?code=448320",
    "fundfee":"0.050",
    "dynamic":[
+    {
+     "date":"2023-12-05",
+     "marketcap":"810400000000"
+    },
     {
      "date":"2023-12-04",
      "marketcap":"817000000000"
@@ -320,7 +340,7 @@
     {
      "date":"2023-12-04",
      "ytm":"3.94",
-     "duration":"",
+     "duration":"0.91",
      "price":"10100",
      "nav":"10096.35",
      "volume":"73500"
@@ -346,6 +366,10 @@
    "info_url":"https://finance.naver.com/item/main.naver?code=465680",
    "fundfee":"0.050",
    "dynamic":[
+    {
+     "date":"2023-12-05",
+     "marketcap":"1905100000000"
+    },
     {
      "date":"2023-12-04",
      "marketcap":"1905100000000"
@@ -381,7 +405,7 @@
     {
      "date":"2023-12-04",
      "ytm":"4.11",
-     "duration":"",
+     "duration":"1.70",
      "price":"10190",
      "nav":"10181.47",
      "volume":"26587"
@@ -407,6 +431,10 @@
    "info_url":"https://finance.naver.com/item/main.naver?code=467940",
    "fundfee":"0.090",
    "dynamic":[
+    {
+     "date":"2023-12-05",
+     "marketcap":"304300000000"
+    },
     {
      "date":"2023-12-04",
      "marketcap":"304200000000"
@@ -442,7 +470,7 @@
     {
      "date":"2023-12-04",
      "ytm":"3.23",
-     "duration":"",
+     "duration":"0.02",
      "price":"10400",
      "nav":"10397.51",
      "volume":"11183"
@@ -468,6 +496,10 @@
    "info_url":"https://finance.naver.com/item/main.naver?code=448310",
    "fundfee":"0.050",
    "dynamic":[
+    {
+     "date":"2023-12-05",
+     "marketcap":"74000000000"
+    },
     {
      "date":"2023-12-04",
      "marketcap":"82400000000"
@@ -503,7 +535,7 @@
     {
      "date":"2023-12-04",
      "ytm":"3.61",
-     "duration":"",
+     "duration":"7.78",
      "price":"10095",
      "nav":"10094.99",
      "volume":"6253"
@@ -529,6 +561,10 @@
    "info_url":"https://finance.naver.com/item/main.naver?code=457690",
    "fundfee":"0.150",
    "dynamic":[
+    {
+     "date":"2023-12-05",
+     "marketcap":"10100000000"
+    },
     {
      "date":"2023-12-04",
      "marketcap":"10100000000"
@@ -564,7 +600,7 @@
     {
      "date":"2023-12-04",
      "ytm":"3.48",
-     "duration":"",
+     "duration":"17.32",
      "price":"10245",
      "nav":"10264.58",
      "volume":"37312"
@@ -590,6 +626,10 @@
    "info_url":"https://finance.naver.com/item/main.naver?code=457700",
    "fundfee":"0.150",
    "dynamic":[
+    {
+     "date":"2023-12-05",
+     "marketcap":"15100000000"
+    },
     {
      "date":"2023-12-04",
      "marketcap":"15100000000"
@@ -660,6 +700,10 @@
    "info_url":"https://finance.naver.com/item/main.naver?code=455890",
    "fundfee":"0.050",
    "dynamic":[
+    {
+     "date":"2023-12-05",
+     "marketcap":"1486300000000"
+    },
     {
      "date":"2023-12-04",
      "marketcap":"1504200000000"
@@ -743,6 +787,10 @@
    "fundfee":"0.050",
    "dynamic":[
     {
+     "date":"2023-12-05",
+     "marketcap":"164300000000"
+    },
+    {
      "date":"2023-12-04",
      "marketcap":"164300000000"
     },
@@ -814,6 +862,10 @@
    "fundfee":"0.070",
    "dynamic":[
     {
+     "date":"2023-12-05",
+     "marketcap":"155500000000"
+    },
+    {
      "date":"2023-12-04",
      "marketcap":"155500000000"
     },
@@ -843,7 +895,9 @@
      "date":"2023-12-04",
      "ytm":"4.0735584155",
      "duration":"0.019336",
-     "nav":""
+     "nav":"105801.09",
+     "duration2":"0.014977479",
+     "price":"105790"
     },
     {
      "date":"2023-12-03",
@@ -886,6 +940,10 @@
    "fundfee":"0.050",
    "dynamic":[
     {
+     "date":"2023-12-05",
+     "marketcap":"112600000000"
+    },
+    {
      "date":"2023-12-04",
      "marketcap":"112600000000"
     },
@@ -915,7 +973,9 @@
      "date":"2023-12-04",
      "ytm":"4.5003241853",
      "duration":"0.814198",
-     "nav":""
+     "nav":"107980.59",
+     "duration2":"1.2770820414",
+     "price":"107960"
     },
     {
      "date":"2023-12-03",
@@ -958,6 +1018,10 @@
    "fundfee":"0.050",
    "dynamic":[
     {
+     "date":"2023-12-05",
+     "marketcap":"135800000000"
+    },
+    {
      "date":"2023-12-04",
      "marketcap":"135800000000"
     },
@@ -987,7 +1051,9 @@
      "date":"2023-12-04",
      "ytm":"4.3325745751",
      "duration":"1.309985",
-     "nav":""
+     "nav":"10221.28",
+     "duration2":"1.831567968",
+     "price":"10225"
     },
     {
      "date":"2023-12-03",
@@ -1030,6 +1096,10 @@
    "fundfee":"0.050",
    "dynamic":[
     {
+     "date":"2023-12-05",
+     "marketcap":"78400000000"
+    },
+    {
      "date":"2023-12-04",
      "marketcap":"78400000000"
     },
@@ -1059,7 +1129,9 @@
      "date":"2023-12-04",
      "ytm":"4.3934291487",
      "duration":"2.01703",
-     "nav":""
+     "nav":"10238.92",
+     "duration2":"2.5665407135",
+     "price":"10235"
     },
     {
      "date":"2023-12-03",
@@ -1101,6 +1173,10 @@
    "info_url":"https://finance.naver.com/item/main.naver?code=461270",
    "fundfee":"0.050",
    "dynamic":[
+    {
+     "date":"2023-12-05",
+     "marketcap":"107600000000"
+    },
     {
      "date":"2023-12-04",
      "marketcap":"107600000000"
@@ -1182,6 +1258,10 @@
    "fundfee":"0.050",
    "dynamic":[
     {
+     "date":"2023-12-05",
+     "marketcap":"188900000000"
+    },
+    {
      "date":"2023-12-04",
      "marketcap":"188900000000"
     },
@@ -1261,6 +1341,10 @@
    "info_url":"https://finance.naver.com/item/main.naver?code=464240",
    "fundfee":"0.070",
    "dynamic":[
+    {
+     "date":"2023-12-05",
+     "marketcap":"51900000000"
+    },
     {
      "date":"2023-12-04",
      "marketcap":"62100000000"
@@ -1342,6 +1426,10 @@
    "fundfee":"0.290",
    "dynamic":[
     {
+     "date":"2023-12-05",
+     "marketcap":"11800000000"
+    },
+    {
      "date":"2023-12-04",
      "marketcap":"11800000000"
     },
@@ -1369,7 +1457,9 @@
    "dynamic":[
     {
      "date":"2023-12-04",
-     "ytm":"4.40"
+     "ytm":"4.40",
+     "price":"50880.0",
+     "nav":"50855.65"
     },
     {
      "date":"2023-12-03",
@@ -1401,6 +1491,10 @@
    "info_url":"https://finance.naver.com/item/main.naver?code=462540",
    "fundfee":"0.050",
    "dynamic":[
+    {
+     "date":"2023-12-05",
+     "marketcap":"126900000000"
+    },
     {
      "date":"2023-12-04",
      "marketcap":"126900000000"
@@ -1435,7 +1529,9 @@
    "dynamic":[
     {
      "date":"2023-12-04",
-     "ytm":"3.61"
+     "ytm":"3.61",
+     "price":"103565.0",
+     "nav":"103544.01"
     },
     {
      "date":"2023-12-03",
@@ -1461,6 +1557,10 @@
    "info_url":"https://finance.naver.com/item/main.naver?code=449540",
    "fundfee":"0.050",
    "dynamic":[
+    {
+     "date":"2023-12-05",
+     "marketcap":"11200000000"
+    },
     {
      "date":"2023-12-04",
      "marketcap":"11200000000"
@@ -1493,6 +1593,14 @@
    "distribution":"연1회(매년 12월 예정) ※변경가능",
    "dynamic":[
     {
+     "date":"2023-12-04",
+     "ytm":"3.62",
+     "duration":"9.3",
+     "price":"52995.00",
+     "nav":"52953.41",
+     "marketcap":"52953000000"
+    },
+    {
      "date":"2023-12-03",
      "ytm":"3.62",
      "duration":"9.2",
@@ -1515,6 +1623,10 @@
    "info_url":"https://finance.naver.com/item/main.naver?code=448490",
    "fundfee":"0.050",
    "dynamic":[
+    {
+     "date":"2023-12-05",
+     "marketcap":"53000000000"
+    },
     {
      "date":"2023-12-04",
      "marketcap":"53000000000"
@@ -1573,6 +1685,10 @@
    "fundfee":"0.050",
    "dynamic":[
     {
+     "date":"2023-12-05",
+     "marketcap":"104800000000"
+    },
+    {
      "date":"2023-12-04",
      "marketcap":"104800000000"
     },
@@ -1595,6 +1711,13 @@
    "fundfee":"0.06",
    "launch_date":"2023-09-18",
    "dynamic":[
+    {
+     "date":"2023-12-04",
+     "ytm":"3.97",
+     "duration":"2.75",
+     "nav":"101952.98",
+     "marketcap":"74425675560"
+    },
     {
      "date":"2023-12-03",
      "ytm":"4.02",
@@ -1629,6 +1752,10 @@
    "info_url":"https://finance.naver.com/item/main.naver?code=465780",
    "fundfee":"0.060",
    "dynamic":[
+    {
+     "date":"2023-12-05",
+     "marketcap":"74500000000"
+    },
     {
      "date":"2023-12-04",
      "marketcap":"74500000000"
@@ -1698,6 +1825,10 @@
    "fundfee":"0.100",
    "dynamic":[
     {
+     "date":"2023-12-05",
+     "marketcap":"115400000000"
+    },
+    {
      "date":"2023-12-04",
      "marketcap":"115400000000"
     },
@@ -1725,7 +1856,9 @@
    "dynamic":[
     {
      "date":"2023-12-04",
-     "ytm":"4.40"
+     "ytm":"4.40",
+     "price":"50295.0",
+     "nav":"50300.25"
     },
     {
      "date":"2023-12-03",
@@ -1757,6 +1890,10 @@
    "info_url":"https://finance.naver.com/item/main.naver?code=469820",
    "fundfee":"0.050",
    "dynamic":[
+    {
+     "date":"2023-12-05",
+     "marketcap":"168600000000"
+    },
     {
      "date":"2023-12-04",
      "marketcap":"167600000000"
@@ -1817,6 +1954,10 @@
    "info_url":"https://finance.naver.com/item/main.naver?code=470260",
    "fundfee":"0.100",
    "dynamic":[
+    {
+     "date":"2023-12-05",
+     "marketcap":"373400000000"
+    },
     {
      "date":"2023-12-04",
      "marketcap":"373400000000"
