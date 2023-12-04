@@ -17,6 +17,10 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2023-12-04",
+     "nav":"51421.73"
+    },
+    {
      "date":"2023-12-01",
      "ytm":"4.19",
      "duration":"0.34",
@@ -69,6 +73,10 @@
    "personal_pension":true,
    "retirement_pension":true,
    "dynamic":[
+    {
+     "date":"2023-12-04",
+     "nav":"53759.84"
+    },
     {
      "date":"2023-12-01",
      "ytm":"4.22",
@@ -123,6 +131,10 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2023-12-04",
+     "nav":"51412.21"
+    },
+    {
      "date":"2023-12-01",
      "ytm":"4.25",
      "duration":"1.68",
@@ -169,6 +181,10 @@
    "personal_pension":true,
    "retirement_pension":true,
    "dynamic":[
+    {
+     "date":"2023-12-04",
+     "nav":"208091.68"
+    },
     {
      "date":"2023-12-01",
      "ytm":"2.85",
@@ -812,6 +828,12 @@
    "info_url":"https://www.aceetf.co.kr/fund/K55101DY6937",
    "dynamic":[
     {
+     "date":"2023-12-04",
+     "ytm":"4.0735584155",
+     "duration":"0.019336",
+     "nav":""
+    },
+    {
      "date":"2023-12-03",
      "ytm":"3.7816440882",
      "duration":"0.023266",
@@ -877,6 +899,12 @@
   "provider":{
    "info_url":"https://www.aceetf.co.kr/fund/K55101DY6945",
    "dynamic":[
+    {
+     "date":"2023-12-04",
+     "ytm":"4.5003241853",
+     "duration":"0.814198",
+     "nav":""
+    },
     {
      "date":"2023-12-03",
      "ytm":"4.5250276986",
@@ -944,6 +972,12 @@
    "info_url":"https://www.aceetf.co.kr/fund/K55101E34378",
    "dynamic":[
     {
+     "date":"2023-12-04",
+     "ytm":"4.3325745751",
+     "duration":"1.309985",
+     "nav":""
+    },
+    {
      "date":"2023-12-03",
      "ytm":"4.3855611754",
      "duration":"1.317692",
@@ -1009,6 +1043,12 @@
   "provider":{
    "info_url":"https://www.aceetf.co.kr/fund/K55101E34386",
    "dynamic":[
+    {
+     "date":"2023-12-04",
+     "ytm":"4.3934291487",
+     "duration":"2.01703",
+     "nav":""
+    },
     {
      "date":"2023-12-03",
      "ytm":"4.4575690796",
@@ -1729,6 +1769,10 @@
    "personal_pension":true,
    "retirement_pension":true,
    "dynamic":[
+    {
+     "date":"2023-12-04",
+     "nav":"50139.51"
+    },
     {
      "date":"2023-12-01",
      "ytm":"4.18",
