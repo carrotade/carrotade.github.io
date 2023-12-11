@@ -2496,6 +2496,15 @@
    "currency":"KRW"
   },
   "provider":{},
-  "listed":true
+  "listed":true,
+  "general":{
+   "code":"473290",
+   "info_url":"https://finance.naver.com/item/main.naver?code=473290",
+   "dynamic":[
+    {
+     "date":"2023-12-12"
+    }
+   ]
+  }
  }
 ]
