@@ -232,7 +232,7 @@
    "dynamic":[
     {
      "date":"2023-12-12",
-     "marketcap":"466900000000"
+     "marketcap":"467000000000"
     },
     {
      "date":"2023-12-11",
@@ -451,9 +451,9 @@
      "date":"2023-12-12",
      "ytm":"3.88",
      "duration":"0.91",
-     "price":null,
+     "price":"10115",
      "nav":"10109.01",
-     "volume":null
+     "volume":"97332"
     },
     {
      "date":"2023-12-11",
@@ -496,7 +496,7 @@
    "dynamic":[
     {
      "date":"2023-12-12",
-     "marketcap":"2635300000000"
+     "marketcap":"2636600000000"
     },
     {
      "date":"2023-12-11",
@@ -540,11 +540,11 @@
    "dynamic":[
     {
      "date":"2023-12-12",
-     "ytm":"4.03",
+     "ytm":"4.02",
      "duration":"1.67",
-     "price":null,
-     "nav":"10203.3",
-     "volume":null
+     "price":"10215",
+     "nav":"10204.38",
+     "volume":"5212"
     },
     {
      "date":"2023-12-11",
@@ -718,11 +718,11 @@
    "dynamic":[
     {
      "date":"2023-12-12",
-     "ytm":"3.56",
+     "ytm":"3.55",
      "duration":"7.77",
-     "price":"10135",
-     "nav":"10132.29",
-     "volume":"5868"
+     "price":"10145",
+     "nav":"10138.58",
+     "volume":"1247"
     },
     {
      "date":"2023-12-11",
@@ -809,11 +809,11 @@
    "dynamic":[
     {
      "date":"2023-12-12",
-     "ytm":"3.46",
+     "ytm":"3.43",
      "duration":"17.35",
-     "price":null,
-     "nav":"10332.7",
-     "volume":null
+     "price":"10365",
+     "nav":"10354.24",
+     "volume":"62991"
     },
     {
      "date":"2023-12-11",
@@ -856,7 +856,7 @@
    "dynamic":[
     {
      "date":"2023-12-12",
-     "marketcap":"15200000000"
+     "marketcap":"15300000000"
     },
     {
      "date":"2023-12-11",
@@ -1060,7 +1060,7 @@
    "dynamic":[
     {
      "date":"2023-12-12",
-     "marketcap":"166600000000"
+     "marketcap":"166500000000"
     },
     {
      "date":"2023-12-11",
@@ -1693,7 +1693,7 @@
    "dynamic":[
     {
      "date":"2023-12-12",
-     "marketcap":"52000000000"
+     "marketcap":"52100000000"
     },
     {
      "date":"2023-12-11",
@@ -1825,7 +1825,7 @@
    "dynamic":[
     {
      "date":"2023-12-12",
-     "ytm":"4.42"
+     "ytm":"4.41"
     },
     {
      "date":"2023-12-11",
@@ -2370,7 +2370,7 @@
    "dynamic":[
     {
      "date":"2023-12-12",
-     "marketcap":"170800000000"
+     "marketcap":"170900000000"
     },
     {
      "date":"2023-12-11",
@@ -2489,7 +2489,27 @@
    "credit_rating":"AA-",
    "currency":"KRW"
   },
-  "provider":{},
+  "provider":{
+   "info_url":"https://www.samsungfund.com/etf/product/view.do?id=2ETFL8",
+   "fundfee":"0.090",
+   "code":"473290",
+   "listing_date":"2023-12-12",
+   "distribution":"미지급 후 재투자",
+   "personal_pension":true,
+   "retirement_pension":true,
+   "dynamic":[
+    {
+     "date":"2023-12-12",
+     "price":"10030",
+     "nav":"10018.94",
+     "volume":"11091"
+    },
+    {
+     "date":"2023-12-11",
+     "nav":"10018.94"
+    }
+   ]
+  },
   "listed":true,
   "general":{
    "code":"473290",
@@ -2500,6 +2520,9 @@
      "marketcap":"50200000000"
     }
    ]
+  },
+  "bm":{
+   "bm_name":"KAP 26-12 회사채 총수익 지수(AA- 이상)"
   }
  }
 ]
