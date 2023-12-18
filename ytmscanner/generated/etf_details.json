@@ -2627,5 +2627,40 @@
    "bm_name":"KAP 단기자금시장지수"
   },
   "listed":true
+ },
+ {
+  "name":"ACE 11월 만기자동연장회사채(AA-이상)액티브",
+  "basic":{
+   "maturity":null,
+   "kind":"회사채",
+   "credit_rating":"AA-",
+   "currency":"KRW"
+  },
+  "provider":{
+   "info_url":"https://www.aceetf.co.kr/fund/K55101E75520",
+   "listing_date":null,
+   "fundfee":"0.05",
+   "code":"473440",
+   "personal_pension":true,
+   "retirement_pension":true,
+   "distribution":"지급(매년 11월 마지막 영업일 기준)",
+   "dynamic":[
+    {
+     "date":"2023-12-17",
+     "ytm":"4.3559395879",
+     "duration":"0.961653",
+     "nav":""
+    },
+    {
+     "date":"2023-12-15",
+     "price":"",
+     "nav":"10047.3"
+    }
+   ]
+  },
+  "bm":{
+   "bm_name":"KIS 11월 만기자동연장회사채(AA-이상) 총수익지수"
+  },
+  "listed":true
  }
 ]
