@@ -2721,5 +2721,171 @@
    "bm_name":"KIS 11월 만기자동연장회사채(AA-이상) 총수익지수"
   },
   "listed":true
+ },
+ {
+  "name":"ACE 11월만기자동연장회사채AA-이상액티브",
+  "basic":{
+   "credit_rating":"AA-",
+   "maturity":null,
+   "kind":"회사채",
+   "currency":"KRW"
+  },
+  "provider":{
+   "info_url":"https://www.aceetf.co.kr/fund/K55101E75520",
+   "dynamic":[
+    {
+     "date":"2024-01-22",
+     "ytm":"3.84",
+     "duration2":"0.99",
+     "price":"10105",
+     "nav":"10103.72",
+     "duration":"0.57322"
+    }
+   ],
+   "listing_date":"2023-12-19",
+   "fundfee":"0.05",
+   "code":"473440",
+   "personal_pension":true,
+   "retirement_pension":true,
+   "distribution":"미지급 후 재투자"
+  },
+  "general":{
+   "code":"473440",
+   "info_url":"https://finance.naver.com/item/main.naver?code=473440",
+   "fundfee":"0.050",
+   "dynamic":[
+    {
+     "date":"2024-01-23",
+     "marketcap":"126300000000"
+    }
+   ]
+  },
+  "bm":{
+   "bm_name":"KIS 11월 만기자동연장회사채(AA-이상) 총수익지수"
+  },
+  "listed":true
+ },
+ {
+  "name":"ACE 2월만기자동연장회사채AA-이상액티브",
+  "basic":{
+   "credit_rating":"AA-",
+   "maturity":null,
+   "kind":"회사채",
+   "currency":"KRW"
+  },
+  "provider":{
+   "info_url":"https://www.aceetf.co.kr/fund/K55101E80470",
+   "listing_date":"2024-01-23",
+   "fundfee":"0.05",
+   "code":"475260",
+   "personal_pension":true,
+   "retirement_pension":true,
+   "distribution":"미지급 후 재투자",
+   "dynamic":[
+    {
+     "date":"2024-01-22",
+     "price":"",
+     "nav":"10007.95",
+     "ytm":"3.6240771029",
+     "duration":"0.126654"
+    }
+   ]
+  },
+  "general":{
+   "code":"475260",
+   "info_url":"https://finance.naver.com/item/main.naver?code=475260",
+   "dynamic":[
+    {
+     "date":"2024-01-23",
+     "marketcap":"20000000000"
+    }
+   ]
+  },
+  "bm":{
+   "bm_name":"KAP 2월 만기자동연장회사채(AA-이상) 총수익지수"
+  },
+  "listed":true
+ },
+ {
+  "name":"ACE 5월만기자동연장회사채AA-이상액티브",
+  "basic":{
+   "credit_rating":"AA-",
+   "maturity":null,
+   "kind":"회사채",
+   "currency":"KRW"
+  },
+  "provider":{
+   "info_url":"https://www.aceetf.co.kr/fund/K55101E80488",
+   "listing_date":"2024-01-23",
+   "fundfee":"0.05",
+   "code":"475270",
+   "personal_pension":true,
+   "retirement_pension":true,
+   "distribution":"미지급 후 재투자",
+   "dynamic":[
+    {
+     "date":"2024-01-22",
+     "price":"",
+     "nav":"10005.95",
+     "ytm":"3.6386173391",
+     "duration":"0.332746"
+    }
+   ]
+  },
+  "general":{
+   "code":"475270",
+   "info_url":"https://finance.naver.com/item/main.naver?code=475270",
+   "dynamic":[
+    {
+     "date":"2024-01-23",
+     "marketcap":"20000000000"
+    }
+   ]
+  },
+  "bm":{
+   "bm_name":"KIS 5월 만기자동연장회사채(AA-이상) 총수익지수"
+  },
+  "listed":true
+ },
+ {
+  "name":"ACE 8월만기자동연장회사채AA-이상액티브",
+  "basic":{
+   "credit_rating":"AA-",
+   "maturity":null,
+   "kind":"회사채",
+   "currency":"KRW"
+  },
+  "provider":{
+   "info_url":"https://www.aceetf.co.kr/fund/K55101E80496",
+   "listing_date":"2024-01-23",
+   "fundfee":"0.05",
+   "code":"475280",
+   "personal_pension":true,
+   "retirement_pension":true,
+   "distribution":"미지급 후 재투자",
+   "dynamic":[
+    {
+     "date":"2024-01-22",
+     "price":"",
+     "nav":"10008.52",
+     "ytm":"3.7146264879",
+     "duration":"0.564328"
+    }
+   ]
+  },
+  "general":{
+   "code":"475280",
+   "info_url":"https://finance.naver.com/item/main.naver?code=475280",
+   "dynamic":[
+    {
+     "date":"2024-01-23",
+     "marketcap":"20000000000"
+    }
+   ]
+  },
+  "bm":{
+   "bm_name":"KAP 8월 만기자동연장회사채(AA-이상) 총수익지수"
+  },
+  "listed":true
  }
 ]
