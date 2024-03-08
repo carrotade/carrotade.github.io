@@ -3031,7 +3031,7 @@
   "listed":true
  },
  {
-  "name":"KODEX 25-11 은행채(AA+이상)PLUS액티브",
+  "name":"KODEX 25-11 은행채(AA-이상)PLUS액티브",
   "basic":{
    "maturity":"25-11",
    "kind":"은행채",
