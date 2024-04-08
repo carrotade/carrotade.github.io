@@ -83,7 +83,7 @@
   "bm":{
    "bm_name":"KIS 회사채2404만기형 지수(총수익 지수)"
   },
-  "listed":true
+  "listed":false
  },
  {
   "name":"TIGER 24-10 회사채(A+이상)액티브",
@@ -448,9 +448,15 @@
    "retirement_pension":true,
    "dynamic":[
     {
-     "date":"2024-04-08",
+     "date":"2024-04-09",
      "price":"10250",
      "nav":"10252.44",
+     "volume":"23851"
+    },
+    {
+     "date":"2024-04-08",
+     "price":"10250",
+     "nav":"10250.58",
      "volume":"23851",
      "ytm":"3.58",
      "duration":"0.60"
@@ -478,14 +484,6 @@
      "volume":"20270",
      "ytm":"3.6",
      "duration":"0.61"
-    },
-    {
-     "date":"2024-04-02",
-     "price":"10240",
-     "nav":"10243.06",
-     "volume":"19729",
-     "ytm":"3.61",
-     "duration":"0.62"
     }
    ]
   },
@@ -539,9 +537,15 @@
    "retirement_pension":true,
    "dynamic":[
     {
-     "date":"2024-04-08",
+     "date":"2024-04-09",
      "price":"10405",
      "nav":"10401.45",
+     "volume":"3602"
+    },
+    {
+     "date":"2024-04-08",
+     "price":"10405",
+     "nav":"10397.98",
      "volume":"3602",
      "ytm":"3.68",
      "duration":"1.53"
@@ -568,14 +572,6 @@
      "nav":"10393.62",
      "volume":"8804",
      "ytm":"3.71",
-     "duration":"1.54"
-    },
-    {
-     "date":"2024-04-02",
-     "price":"10395",
-     "nav":"10390.74",
-     "volume":"5602",
-     "ytm":"3.69",
      "duration":"1.54"
     }
    ]
@@ -717,9 +713,15 @@
    "retirement_pension":true,
    "dynamic":[
     {
-     "date":"2024-04-08",
+     "date":"2024-04-09",
      "price":"10305",
      "nav":"10301.28",
+     "volume":"4618"
+    },
+    {
+     "date":"2024-04-08",
+     "price":"10305",
+     "nav":"10304.88",
      "volume":"4618",
      "ytm":"3.47",
      "duration":"7.27"
@@ -746,14 +748,6 @@
      "nav":"10323.37",
      "volume":"5486",
      "ytm":"3.44",
-     "duration":"7.29"
-    },
-    {
-     "date":"2024-04-02",
-     "price":"10335",
-     "nav":"10339.03",
-     "volume":"2095",
-     "ytm":"3.43",
      "duration":"7.29"
     }
    ]
@@ -808,9 +802,15 @@
    "retirement_pension":true,
    "dynamic":[
     {
-     "date":"2024-04-08",
+     "date":"2024-04-09",
      "price":"10685",
      "nav":"10694.82",
+     "volume":"2844"
+    },
+    {
+     "date":"2024-04-08",
+     "price":"10685",
+     "nav":"10681.67",
      "volume":"2844",
      "ytm":"3.33",
      "duration":"17.60"
@@ -838,14 +838,6 @@
      "volume":"7337",
      "ytm":"3.29",
      "duration":"17.66"
-    },
-    {
-     "date":"2024-04-02",
-     "price":"10740",
-     "nav":"10756.11",
-     "volume":"2429",
-     "ytm":"3.3",
-     "duration":"17.67"
     }
    ]
   },
@@ -2229,9 +2221,17 @@
   "provider":{
    "info_url":"https://www.bnkasset.co.kr/product/mo_view4.aspx?fund_cd=70004&pgbn=8",
    "fundfee":"0.1",
-   "listing_date":null,
-   "distribution":"",
+   "listing_date":"2023-11-14",
+   "distribution":"회계기간종료일",
    "dynamic":[
+    {
+     "date":"2024-04-08",
+     "ytm":"3.70",
+     "duration":"0.58",
+     "nav":"51210.87",
+     "marketcap":"109284004331",
+     "price":"51225.00"
+    },
     {
      "date":"2024-04-04",
      "ytm":"3.71",
@@ -2263,14 +2263,6 @@
      "nav":"51161.61",
      "marketcap":"109178868216",
      "price":"51160.00"
-    },
-    {
-     "date":"2024-03-31",
-     "ytm":"3.76",
-     "duration":"0.60",
-     "nav":"51152.37",
-     "marketcap":"109159149624",
-     "price":"51155.00"
     }
    ]
   },
@@ -2497,9 +2489,15 @@
    "retirement_pension":true,
    "dynamic":[
     {
-     "date":"2024-04-08",
+     "date":"2024-04-09",
      "price":"10200",
      "nav":"10206.89",
+     "volume":"12062"
+    },
+    {
+     "date":"2024-04-08",
+     "price":"10200",
+     "nav":"10201.84",
      "volume":"12062",
      "ytm":"3.62",
      "duration":"1.91"
@@ -2527,14 +2525,6 @@
      "volume":"5149",
      "ytm":"3.63",
      "duration":"1.92"
-    },
-    {
-     "date":"2024-04-02",
-     "price":"10200",
-     "nav":"10197.98",
-     "volume":"9054",
-     "ytm":"3.62",
-     "duration":"1.93"
     }
    ]
   },
@@ -3021,9 +3011,15 @@
    "retirement_pension":true,
    "dynamic":[
     {
-     "date":"2024-04-08",
+     "date":"2024-04-09",
      "price":"10070",
      "nav":"10066.75",
+     "volume":"1760"
+    },
+    {
+     "date":"2024-04-08",
+     "price":"10070",
+     "nav":"10064.57",
      "volume":"1760",
      "ytm":"3.9",
      "duration":"1.92"
@@ -3051,14 +3047,6 @@
      "volume":"15739",
      "ytm":"3.46",
      "duration":"1.87"
-    },
-    {
-     "date":"2024-04-02",
-     "price":"10060",
-     "nav":"10058.96",
-     "volume":"10808",
-     "ytm":"3.73",
-     "duration":"1.74"
     }
    ]
   },
