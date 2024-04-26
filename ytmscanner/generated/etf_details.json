@@ -717,7 +717,7 @@
     {
      "date":"2024-04-26",
      "price":"10145",
-     "nav":"10153.72",
+     "nav":"10158.1",
      "volume":"11227",
      "ytm":"3.68",
      "duration":"7.20"
@@ -808,7 +808,7 @@
     {
      "date":"2024-04-26",
      "price":"10320",
-     "nav":"10316.42",
+     "nav":"10327.13",
      "volume":"6162",
      "ytm":"3.52",
      "duration":"17.32"
@@ -3118,5 +3118,47 @@
     }
    ]
   }
+ },
+ {
+  "name":"TIGER 27-04 회사채(A+이상)액티브",
+  "basic":{
+   "maturity":"27-04",
+   "kind":"회사채",
+   "credit_rating":"A+",
+   "currency":"KRW"
+  },
+  "provider":{
+   "info_url":"https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7480260009",
+   "fundfee":"0.1",
+   "code":"480260",
+   "listing_date":"2024-04-23",
+   "distribution":"- 지급기준일 : 회계기간종료일(비영업일인경우 직전영업일)- 지급시기 : 지급기준일 익영업일로부터 제7영업일 이내",
+   "personal_pension":true,
+   "retirement_pension":true,
+   "dynamic":[
+    {
+     "date":"2024-04-25",
+     "ytm":"3.96",
+     "duration":"2.75",
+     "price":"49875",
+     "nav":"49875.29"
+    }
+   ]
+  },
+  "general":{
+   "code":"480260",
+   "info_url":"https://finance.naver.com/item/main.naver?code=480260",
+   "fundfee":"0.100",
+   "dynamic":[
+    {
+     "date":"2024-04-26",
+     "marketcap":"104800000000"
+    }
+   ]
+  },
+  "bm":{
+   "bm_name":"KIS 회사채채2704만기형지수(총수익지수)"
+  },
+  "listed":true
  }
 ]
