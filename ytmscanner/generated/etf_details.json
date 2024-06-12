@@ -441,7 +441,7 @@
    "fundfee":"0.050",
    "code":"465680",
    "listing_date":"2023-09-12",
-   "distribution":"미지급 후 재투자",
+   "distribution":"미지급\r\n(재투자)",
    "personal_pension":true,
    "retirement_pension":true,
    "dynamic":[
@@ -529,7 +529,7 @@
    "fundfee":"0.090",
    "code":"467940",
    "listing_date":"2023-10-11",
-   "distribution":"미지급 후 재투자",
+   "distribution":"미지급\r\n(재투자)",
    "personal_pension":true,
    "retirement_pension":true,
    "dynamic":[
@@ -2456,7 +2456,7 @@
    "fundfee":"0.090",
    "code":"473290",
    "listing_date":"2023-12-12",
-   "distribution":"미지급 후 재투자",
+   "distribution":"미지급\r\n(재투자)",
    "personal_pension":true,
    "retirement_pension":true,
    "dynamic":[
