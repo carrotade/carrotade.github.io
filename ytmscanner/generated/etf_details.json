@@ -2047,8 +2047,8 @@
   "name":"WOORI 25-09 회사채(AA-이상)액티브",
   "provider":{
    "info_url":"https://www.wooriam.kr/investment/etf-view/pfIyWipUWmqQQHze",
-   "fundfee":"0.0500",
-   "code":"468820",
+   "fundfee":"",
+   "code":"1",
    "launch_date":"2023-10-17",
    "dynamic":[
     {
@@ -2088,8 +2088,8 @@
     }
    ],
    "listing_date":"2023-10-19",
-   "distribution":"회계기간종료일",
-   "marketcap":"106940959168"
+   "distribution":"468820",
+   "marketcap":"1069409591681"
   },
   "basic":{
    "maturity":"25-09",
@@ -2125,7 +2125,7 @@
    ]
   },
   "bm":{
-   "bm_name":"KAP 25-09 회사채 총수익 지수(AA- 이상)"
+   "bm_name":"0"
   },
   "listed":true
  },
