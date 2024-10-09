@@ -1502,6 +1502,13 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2024-10-09",
+     "price":"0",
+     "marketcap":"0",
+     "ytm":"3.107",
+     "duration":"0.000"
+    },
+    {
      "date":"2024-10-08",
      "price":"0",
      "marketcap":"0",
@@ -1524,13 +1531,6 @@
     },
     {
      "date":"2024-10-03",
-     "price":"0",
-     "marketcap":"0",
-     "ytm":"3.107",
-     "duration":"0.000"
-    },
-    {
-     "date":"2024-10-02",
      "price":"0",
      "marketcap":"0",
      "ytm":"3.107",
@@ -1588,6 +1588,13 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2024-10-09",
+     "price":"52410",
+     "marketcap":"71250000000",
+     "ytm":"3.150",
+     "duration":"2.013"
+    },
+    {
      "date":"2024-10-08",
      "price":"52410",
      "marketcap":"71250000000",
@@ -1615,13 +1622,6 @@
      "price":"52490",
      "nav":"52494.75",
      "volume":"303"
-    },
-    {
-     "date":"2024-10-03",
-     "price":"52535",
-     "marketcap":"70896000000",
-     "ytm":"2.962",
-     "duration":"1.967"
     }
    ]
   },
@@ -1675,6 +1675,13 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2024-10-09",
+     "price":"52460",
+     "marketcap":"14686000000",
+     "ytm":"4.420",
+     "duration":"0.833"
+    },
+    {
      "date":"2024-10-08",
      "price":"52460",
      "marketcap":"14686000000",
@@ -1702,13 +1709,6 @@
      "price":"52085",
      "nav":"52069.92",
      "volume":"3378"
-    },
-    {
-     "date":"2024-10-03",
-     "price":"51635",
-     "marketcap":"14438000000",
-     "ytm":"4.131",
-     "duration":"0.842"
     }
    ]
   },
