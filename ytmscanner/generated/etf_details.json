@@ -1657,13 +1657,21 @@
    "currency":"KRW"
   },
   "provider":{
-   "info_url":"https://www.hanaroetf.com/fund/FundETFDetail.asp?FundCode=NHCAUODDH",
+   "info_url":"https://www.hanaroetf.com/fund/F48E876CB3034394",
    "maturity_date":"2032-10-27",
    "fundfee":"0.05",
    "code":"448490",
    "listing_date":"2022-11-22",
-   "distribution":"최근 3년 분배금 지급현황",
+   "distribution":"회계기간 종료일",
    "dynamic":[
+    {
+     "date":"2024-11-07",
+     "price":"56345",
+     "nav":"56355.441",
+     "marketcap":"58046000000",
+     "ytm":"3.11",
+     "duration":"8.64"
+    },
     {
      "date":"2024-11-03",
      "ytm":"3.11",
@@ -1695,14 +1703,6 @@
      "price":"56205.00",
      "nav":"56172.98",
      "marketcap":"57746000000"
-    },
-    {
-     "date":"2024-10-28",
-     "ytm":"3.14",
-     "duration":"8.7",
-     "price":"56225.00",
-     "nav":"56141.18",
-     "marketcap":"57713000000"
     }
    ]
   },
@@ -2781,7 +2781,28 @@
    "currency":"KRW"
   },
   "provider":{
-   "info_url":"https://www.kbstaretf.com/prod/finderDetail/44E4"
+   "info_url":"https://www.riseetf.co.kr/prod/finderDetail/44E4",
+   "fundfee":"0.05",
+   "code":"455890",
+   "listing_date":"2023-05-09",
+   "distribution":"회계기간 종료일(회계기간 종료일이 영업일이 아닌 경우 그 직전 영업일)",
+   "personal_pension":true,
+   "retirement_pension":true,
+   "dynamic":[
+    {
+     "date":"2024-11-08",
+     "ytm":"3.48",
+     "duration":"0.25",
+     "price":"53190",
+     "nav":"53180",
+     "volume":"303261",
+     "marketcap":"2293055386155"
+    },
+    {
+     "date":"2024-11-07",
+     "price":"53190"
+    }
+   ]
   },
   "general":{
    "code":"455890",
@@ -2810,7 +2831,10 @@
     }
    ]
   },
-  "listed":true
+  "listed":true,
+  "bm":{
+   "bm_name":"KIS 시가평가 MMF 지수(총수익지수)"
+  }
  },
  {
   "name":"RISE 23-11 회사채(AA-이상)액티브",
@@ -2832,7 +2856,29 @@
    "currency":"KRW"
   },
   "provider":{
-   "info_url":"https://www.kbstaretf.com/prod/finderDetail/44F0"
+   "info_url":"https://www.riseetf.co.kr/prod/finderDetail/44F0",
+   "maturity_date":"2025-03-19",
+   "fundfee":"0.05",
+   "code":"464540",
+   "listing_date":"2023-08-17",
+   "distribution":"매월 마지막 영업일(회계기간 종료일이 영업일이 아닌 경우 그 직전 영업일)",
+   "personal_pension":true,
+   "retirement_pension":true,
+   "dynamic":[
+    {
+     "date":"2024-11-08",
+     "ytm":"3.43",
+     "duration":"0.29",
+     "price":"50980",
+     "nav":"50971",
+     "volume":"4244",
+     "marketcap":"217546868505"
+    },
+    {
+     "date":"2024-11-07",
+     "price":"50980"
+    }
+   ]
   },
   "general":{
    "code":"464540",
@@ -2861,7 +2907,10 @@
     }
    ]
   },
-  "listed":true
+  "listed":true,
+  "bm":{
+   "bm_name":"KIS 2025년 3월 만기도래 크레딧 종합채권 지수(AA-이상)"
+  }
  },
  {
   "name":"RISE 25-11 회사채(AA-이상)액티브",
@@ -2872,7 +2921,29 @@
    "currency":"KRW"
   },
   "provider":{
-   "info_url":"https://www.kbstaretf.com/prod/finderDetail/44D9"
+   "info_url":"https://www.riseetf.co.kr/prod/finderDetail/44D9",
+   "maturity_date":"2025-11-21",
+   "fundfee":"0.07",
+   "code":"448600",
+   "listing_date":"2022-11-22",
+   "distribution":"매월 마지막 영업일 및 회계기간 종료일(회계기간 종료일이 영업일이 아닌 경우, 그 직전 영업일)",
+   "personal_pension":true,
+   "retirement_pension":true,
+   "dynamic":[
+    {
+     "date":"2024-11-08",
+     "ytm":"3.31",
+     "duration":"0.86",
+     "price":"52585",
+     "nav":"52577",
+     "volume":"3067",
+     "marketcap":"135335483277"
+    },
+    {
+     "date":"2024-11-07",
+     "price":"52585"
+    }
+   ]
   },
   "general":{
    "code":"448600",
@@ -2901,7 +2972,10 @@
     }
    ]
   },
-  "listed":true
+  "listed":true,
+  "bm":{
+   "bm_name":"KIS 2025년 만기도래 크레딧 종합채권 지수(AA-이상)"
+  }
  },
  {
   "name":"WON 25-09 회사채(AA-이상)액티브",
@@ -3001,7 +3075,29 @@
    "currency":"KRW"
   },
   "provider":{
-   "info_url":"https://www.kbstaretf.com/prod/finderDetail/44G8"
+   "info_url":"https://www.riseetf.co.kr/prod/finderDetail/44G8",
+   "maturity_date":"2025-06-25",
+   "fundfee":"0.05",
+   "code":"483230",
+   "listing_date":"2024-06-18",
+   "distribution":"회계기간 종료일(회계기간 종료일이 영업일이 아닌 경우 그 직전 영업일)",
+   "personal_pension":true,
+   "retirement_pension":true,
+   "dynamic":[
+    {
+     "date":"2024-11-08",
+     "ytm":"3.33",
+     "duration":"0.59",
+     "price":"50730",
+     "nav":"50722",
+     "volume":"-",
+     "marketcap":"160385261316"
+    },
+    {
+     "date":"2024-11-07",
+     "price":"50730"
+    }
+   ]
   },
   "general":{
    "code":"483230",
@@ -3030,6 +3126,9 @@
     }
    ]
   },
-  "listed":true
+  "listed":true,
+  "bm":{
+   "bm_name":"KIS 2025년 6월 만기도래 은행채 지수(AA+이상)(총수익)"
+  }
  }
 ]
