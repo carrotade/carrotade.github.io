@@ -3308,5 +3308,44 @@
    "bm_name":"KIS 금융채2512만기형 지수(총수익)"
   },
   "listed":true
+ },
+ {
+  "name":"1Q 25-08 회사채(A+이상)액티브",
+  "basic":{
+   "maturity":"25-08",
+   "kind":"회사채",
+   "credit_rating":"A+",
+   "currency":"KRW"
+  },
+  "provider":{
+   "info_url":"https://1qetf.com/pages/ETFproducts/ETF_info.view.php?etf_no=3",
+   "fundfee":"0.10",
+   "distribution":"분배금 지급 가능",
+   "dynamic":[
+    {
+     "date":"2024-11-08",
+     "price":"106505",
+     "nav":"106510.07",
+     "marketcap":"116476000000",
+     "ytm":"3.41",
+     "duration":"0.84"
+    }
+   ]
+  },
+  "general":{
+   "code":"466400",
+   "info_url":"https://finance.naver.com/item/main.naver?code=466400",
+   "fundfee":"0.100",
+   "dynamic":[
+    {
+     "date":"2024-11-08",
+     "marketcap":"116500000000"
+    }
+   ]
+  },
+  "bm":{
+   "bm_name":"KIS 2025-08만기형 크레딧 A+이상 지수"
+  },
+  "listed":true
  }
 ]
