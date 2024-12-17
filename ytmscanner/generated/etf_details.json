@@ -1043,7 +1043,7 @@
   "bm":{
    "bm_name":"KIS 크레딧2412만기형 지수"
   },
-  "listed":true
+  "listed":false
  },
  {
   "name":"ACE 25-06 회사채(AA-이상)액티브",
@@ -2068,7 +2068,7 @@
   "bm":{
    "bm_name":"KIS 금융채2412만기형지수(총수익지수)"
   },
-  "listed":true
+  "listed":false
  },
  {
   "name":"KODEX 26-12 회사채(AA-이상)액티브",
