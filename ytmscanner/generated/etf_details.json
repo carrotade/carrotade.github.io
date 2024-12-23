@@ -1501,7 +1501,9 @@
    "dynamic":[
     {
      "date":"2024-12-23",
-     "ytm":"3.60"
+     "ytm":"3.60",
+     "price":"53440.0",
+     "nav":"53423.25"
     },
     {
      "date":"2024-12-22",
@@ -2177,7 +2179,9 @@
    "dynamic":[
     {
      "date":"2024-12-23",
-     "ytm":"3.69"
+     "ytm":"3.69",
+     "price":"52385.0",
+     "nav":"52377.8"
     },
     {
      "date":"2024-12-22",
@@ -3251,7 +3255,9 @@
    "dynamic":[
     {
      "date":"2024-12-23",
-     "ytm":"3.37"
+     "ytm":"3.37",
+     "price":"50630.0",
+     "nav":"50622.92"
     },
     {
      "date":"2024-12-22",
@@ -3726,7 +3732,36 @@
    "credit_rating":"A+",
    "currency":"KRW"
   },
-  "provider":{},
-  "listed":true
+  "provider":{
+   "info_url":"https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR70001S0001",
+   "fundfee":"0.1",
+   "code":null,
+   "listing_date":"2024-12-24",
+   "distribution":"- 지급기준일 : 회계기간종료일(비영업일인경우 직전영업일)- 지급시기 : 지급기준일 익영업일로부터 제7영업일 이내",
+   "personal_pension":true,
+   "retirement_pension":true,
+   "dynamic":[
+    {
+     "date":"2024-12-23",
+     "ytm":"3.40",
+     "duration":"0.92",
+     "price":"50025",
+     "nav":"50025.06"
+    }
+   ]
+  },
+  "listed":true,
+  "general":{
+   "code":"0001S0",
+   "info_url":"https://finance.naver.com/item/main.naver?code=0001S0",
+   "dynamic":[
+    {
+     "date":"2024-12-24"
+    }
+   ]
+  },
+  "bm":{
+   "bm_name":"KIS 회사채2604만기형지수(총수익지수)"
+  }
  }
 ]
