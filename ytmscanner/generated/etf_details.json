@@ -2895,6 +2895,15 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2025-01-27",
+     "ytm":"3.15",
+     "duration":"0.10",
+     "price":"50600",
+     "nav":"50577",
+     "volume":"2067",
+     "marketcap":"79204498620"
+    },
+    {
      "date":"2025-01-24",
      "ytm":"3.15",
      "duration":"0.10",
@@ -2929,15 +2938,6 @@
      "nav":"50791",
      "volume":"1022",
      "marketcap":"79539280493"
-    },
-    {
-     "date":"2025-01-20",
-     "ytm":"3.15",
-     "duration":"0.12",
-     "price":"50800",
-     "nav":"50786",
-     "volume":"269",
-     "marketcap":"79532141722"
     }
    ]
   },
@@ -2992,6 +2992,15 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2025-01-27",
+     "ytm":"3.01",
+     "duration":"0.72",
+     "price":"52575",
+     "nav":"52538",
+     "volume":"6993",
+     "marketcap":"149315141377"
+    },
+    {
      "date":"2025-01-24",
      "ytm":"3.01",
      "duration":"0.72",
@@ -3026,15 +3035,6 @@
      "nav":"52649",
      "volume":"4660",
      "marketcap":"149631069617"
-    },
-    {
-     "date":"2025-01-20",
-     "ytm":"3.01",
-     "duration":"0.73",
-     "price":"52665",
-     "nav":"52647",
-     "volume":"10376",
-     "marketcap":"149623802194"
     }
    ]
   },
@@ -3178,6 +3178,15 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2025-01-27",
+     "ytm":"3.00",
+     "duration":"0.36",
+     "price":"51175",
+     "nav":"51141",
+     "volume":"635",
+     "marketcap":"163244670295"
+    },
+    {
      "date":"2025-01-24",
      "ytm":"3.00",
      "duration":"0.36",
@@ -3212,15 +3221,6 @@
      "nav":"51115",
      "volume":"246",
      "marketcap":"163159611371"
-    },
-    {
-     "date":"2025-01-20",
-     "ytm":"3.01",
-     "duration":"0.38",
-     "price":"51125",
-     "nav":"51110",
-     "volume":"686",
-     "marketcap":"163145707256"
     }
    ]
   },
