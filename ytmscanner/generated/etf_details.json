@@ -2748,6 +2748,15 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2025-02-06",
+     "ytm":"3.21",
+     "duration":"0.23",
+     "price":"53665",
+     "nav":"53662",
+     "volume":"324572",
+     "marketcap":"2720925242149"
+    },
+    {
      "date":"2025-02-05",
      "ytm":"3.21",
      "duration":"0.23",
@@ -2782,15 +2791,6 @@
      "nav":"53638",
      "volume":"584027",
      "marketcap":"2700503597062"
-    },
-    {
-     "date":"2025-01-30",
-     "ytm":"3.17",
-     "duration":"0.22",
-     "price":"53655",
-     "nav":"53635",
-     "volume":"584027",
-     "marketcap":"2700319888481"
     }
    ]
   },
@@ -2856,6 +2856,15 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2025-02-06",
+     "ytm":"3.11",
+     "duration":"0.08",
+     "price":"50615",
+     "nav":"50615",
+     "volume":"1614",
+     "marketcap":"79263671740"
+    },
+    {
      "date":"2025-02-05",
      "ytm":"3.11",
      "duration":"0.08",
@@ -2890,15 +2899,6 @@
      "nav":"50593",
      "volume":"2067",
      "marketcap":"79229375889"
-    },
-    {
-     "date":"2025-01-30",
-     "ytm":"3.14",
-     "duration":"0.10",
-     "price":"50600",
-     "nav":"50589",
-     "volume":"2067",
-     "marketcap":"79223151583"
     }
    ]
   },
@@ -2953,6 +2953,15 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2025-02-06",
+     "ytm":"3.00",
+     "duration":"0.70",
+     "price":"52580",
+     "nav":"52574",
+     "volume":"4334",
+     "marketcap":"149415882750"
+    },
+    {
      "date":"2025-02-05",
      "ytm":"3.00",
      "duration":"0.70",
@@ -2987,15 +2996,6 @@
      "nav":"52553",
      "volume":"6993",
      "marketcap":"149355913171"
-    },
-    {
-     "date":"2025-01-30",
-     "ytm":"3.01",
-     "duration":"0.72",
-     "price":"52575",
-     "nav":"52549",
-     "volume":"6993",
-     "marketcap":"149345722408"
     }
    ]
   },
@@ -3134,6 +3134,15 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2025-02-06",
+     "ytm":"2.99",
+     "duration":"0.34",
+     "price":"51185",
+     "nav":"51180",
+     "volume":"258",
+     "marketcap":"163369695587"
+    },
+    {
      "date":"2025-02-05",
      "ytm":"2.99",
      "duration":"0.34",
@@ -3168,15 +3177,6 @@
      "nav":"51158",
      "volume":"635",
      "marketcap":"163297187090"
-    },
-    {
-     "date":"2025-01-30",
-     "ytm":"3.00",
-     "duration":"0.36",
-     "price":"51175",
-     "nav":"51154",
-     "volume":"635",
-     "marketcap":"163284050417"
     }
    ]
   },
@@ -3572,8 +3572,8 @@
     {
      "date":"2025-02-05",
      "price":"107535",
-     "nav":"107538.59",
-     "marketcap":"120952000000",
+     "nav":"107527.71",
+     "marketcap":"120968000000",
      "ytm":"3.13",
      "duration":"0.59"
     },
@@ -3801,5 +3801,160 @@
   "bm":{
    "bm_name":"KIS 회사채2604만기형지수(총수익지수)"
   }
+ },
+ {
+  "name":"KIWOOM 24-09 회사채(AA-이상)액티브",
+  "basic":{
+   "maturity":"24-09",
+   "kind":"회사채",
+   "credit_rating":"AA-",
+   "currency":"KRW"
+  },
+  "provider":{},
+  "listed":false
+ },
+ {
+  "name":"KIWOOM 26-09 회사채(AA-이상)액티브",
+  "basic":{
+   "maturity":"26-09",
+   "kind":"회사채",
+   "credit_rating":"AA-",
+   "currency":"KRW"
+  },
+  "provider":{
+   "info_url":"https://www.kosef.co.kr/service/etf/KO02010200M?gcode=464240",
+   "fundfee":"0.07",
+   "code":"464240",
+   "listing_date":"2023-08-17",
+   "launch_date":"2023-08-11",
+   "personal_pension":true,
+   "retirement_pension":true,
+   "dynamic":[
+    {
+     "date":"2025-02-05",
+     "price":"52790",
+     "marketcap":"120330000000",
+     "ytm":"2.920",
+     "duration":"1.508"
+    },
+    {
+     "date":"2025-02-04",
+     "price":"52790",
+     "nav":"52776.21",
+     "volume":"6362"
+    }
+   ]
+  },
+  "general":{
+   "code":"464240",
+   "info_url":"https://finance.naver.com/item/main.naver?code=464240",
+   "fundfee":"0.070",
+   "dynamic":[
+    {
+     "date":"2025-02-05",
+     "marketcap":"120400000000"
+    }
+   ]
+  },
+  "bm":{
+   "bm_name":"KIS 2609 만기형 크레딧 종합채권 지수(AA-이상)(총수익지수)"
+  },
+  "listed":true
+ },
+ {
+  "name":"KIWOOM 25-09 미국채권(AA-이상)액티브",
+  "basic":{
+   "kind":"회사채",
+   "currency":"USD",
+   "maturity":"25-09",
+   "credit_rating":"AA-"
+  },
+  "provider":{
+   "info_url":"https://www.kosef.co.kr/service/etf/KO02010200M?gcode=467620",
+   "fundfee":"0.29",
+   "code":"467620",
+   "listing_date":"2023-10-17",
+   "launch_date":"2023-10-12",
+   "personal_pension":true,
+   "retirement_pension":true,
+   "dynamic":[
+    {
+     "date":"2025-02-05",
+     "price":"57090",
+     "marketcap":"15976000000",
+     "ytm":"4.473",
+     "duration":"0.534"
+    },
+    {
+     "date":"2025-02-04",
+     "price":"57090",
+     "nav":"57058.17",
+     "volume":"1731"
+    }
+   ]
+  },
+  "general":{
+   "code":"467620",
+   "info_url":"https://finance.naver.com/item/main.naver?code=467620",
+   "fundfee":"0.290",
+   "dynamic":[
+    {
+     "date":"2025-02-05",
+     "marketcap":"15800000000"
+    }
+   ]
+  },
+  "bm":{
+   "bm_name":"USD AA3 Above Select September 2025 Maturity Index"
+  },
+  "listed":true
+ },
+ {
+  "name":"KIWOOM 25-09 회사채(AA-이상)액티브",
+  "basic":{
+   "maturity":"25-09",
+   "kind":"회사채",
+   "credit_rating":"AA-",
+   "currency":"KRW"
+  },
+  "provider":{
+   "info_url":"https://www.kosef.co.kr/service/etf/KO02010200M?gcode=489870",
+   "fundfee":"0.05",
+   "code":"489870",
+   "listing_date":"2024-09-24",
+   "launch_date":"2024-09-20",
+   "personal_pension":true,
+   "retirement_pension":true,
+   "dynamic":[
+    {
+     "date":"2025-02-05",
+     "price":"50740",
+     "marketcap":"106544000000",
+     "ytm":"3.179",
+     "duration":"0.640"
+    },
+    {
+     "date":"2025-02-04",
+     "price":"50740",
+     "nav":"50735.21",
+     "volume":"157"
+    }
+   ]
+  },
+  "general":{
+   "code":"489870",
+   "info_url":"https://finance.naver.com/item/main.naver?code=489870",
+   "fundfee":"0.050",
+   "dynamic":[
+    {
+     "date":"2025-02-05",
+     "marketcap":"106600000000"
+    }
+   ]
+  },
+  "bm":{
+   "bm_name":"KIS 2509 만기형 크레딧 종합채권 지수(AA-이상)(총수익지수)"
+  },
+  "listed":true
  }
 ]
