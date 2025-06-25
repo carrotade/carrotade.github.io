@@ -1129,7 +1129,7 @@
   "bm":{
    "bm_name":"KIS 크레딧 2506 만기형(AA-이상) 총수익지수"
   },
-  "listed":true
+  "listed":false
  },
  {
   "name":"ACE 26-06 회사채(AA-이상)액티브",
@@ -2970,7 +2970,7 @@
     }
    ]
   },
-  "listed":true,
+  "listed":false,
   "bm":{
    "bm_name":"KIS 2025년 6월 만기도래 은행채 지수(AA+이상)(총수익)"
   }
