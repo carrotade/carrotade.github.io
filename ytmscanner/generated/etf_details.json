@@ -707,7 +707,7 @@
    "dynamic":[
     {
      "date":"2025-09-04",
-     "ytm":"2.83",
+     "ytm":"2.84",
      "duration":"6.78"
     },
     {
@@ -795,7 +795,7 @@
    "dynamic":[
     {
      "date":"2025-09-04",
-     "ytm":"2.81",
+     "ytm":"2.82",
      "duration":"17.99"
     },
     {
@@ -1176,7 +1176,7 @@
    "code":"461270",
    "personal_pension":true,
    "retirement_pension":true,
-   "distribution":"미지급 후 재투자"
+   "distribution":"지급(매년)"
   },
   "general":{
    "code":"461270",
@@ -1185,7 +1185,7 @@
    "dynamic":[
     {
      "date":"2025-09-04",
-     "marketcap":"246100000000"
+     "marketcap":"246200000000"
     },
     {
      "date":"2025-09-03",
@@ -1935,7 +1935,7 @@
    "dynamic":[
     {
      "date":"2025-09-04",
-     "marketcap":"945500000000"
+     "marketcap":"945400000000"
     },
     {
      "date":"2025-09-03",
@@ -1975,7 +1975,7 @@
    "code":"473440",
    "personal_pension":true,
    "retirement_pension":true,
-   "distribution":"미지급 후 재투자",
+   "distribution":"지급(매년)",
    "dynamic":[
     {
      "date":"2025-09-03",
@@ -2063,7 +2063,7 @@
    "code":"475260",
    "personal_pension":true,
    "retirement_pension":true,
-   "distribution":"미지급 후 재투자",
+   "distribution":"지급(매년)",
    "dynamic":[
     {
      "date":"2025-09-03",
@@ -2151,7 +2151,7 @@
    "code":"475270",
    "personal_pension":true,
    "retirement_pension":true,
-   "distribution":"미지급 후 재투자",
+   "distribution":"지급(매년)",
    "dynamic":[
     {
      "date":"2025-09-03",
@@ -2239,7 +2239,7 @@
    "code":"475280",
    "personal_pension":true,
    "retirement_pension":true,
-   "distribution":"미지급 후 재투자",
+   "distribution":"지급(매년)",
    "dynamic":[
     {
      "date":"2025-09-03",
@@ -3193,7 +3193,7 @@
    "dynamic":[
     {
      "date":"2025-09-04",
-     "marketcap":"1286800000000"
+     "marketcap":"1287000000000"
     },
     {
      "date":"2025-09-03",
@@ -3601,7 +3601,7 @@
     {
      "date":"2025-09-03",
      "price":"54990",
-     "nav":"54988.33",
+     "nav":"54988.34",
      "volume":"1164",
      "marketcap":"15397000000",
      "ytm":"3.097",
@@ -3819,7 +3819,7 @@
    "dynamic":[
     {
      "date":"2025-09-04",
-     "marketcap":"433800000000"
+     "marketcap":"433700000000"
     },
     {
      "date":"2025-09-03",
