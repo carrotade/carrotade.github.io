@@ -1900,10 +1900,10 @@
    "currency":"KRW"
   },
   "provider":{
-   "info_url":"https://www.soletf.com/ko/fund/etf/211038",
-   "fundfee":"0.05",
-   "code":"469830",
-   "listing_date":"2023-11-07",
+   "info_url":"https://www.soletf.com/ko/fund/etf/210945",
+   "fundfee":"0.25",
+   "code":"447620",
+   "listing_date":"2022-11-29",
    "distribution":"연 1회 지급",
    "personal_pension":true,
    "retirement_pension":true,
@@ -1911,8 +1911,8 @@
     {
      "date":"2025-09-15",
      "ytm":"2.80",
-     "price":"53640.0",
-     "nav":"53630.06"
+     "price":"14310.0",
+     "nav":"14258.38"
     },
     {
      "date":"2025-09-14",
