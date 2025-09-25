@@ -2882,7 +2882,7 @@
   "bm":{
    "bm_name":"KAP 25-09 회사채 총수익 지수(AA-이상)"
   },
-  "listed":true
+  "listed":false
  },
  {
   "name":"RISE 25-06 은행채(AA+이상)액티브",
@@ -3699,7 +3699,7 @@
   "bm":{
    "bm_name":"USD AA3 Above Select September 2025 Maturity Index"
   },
-  "listed":true
+  "listed":false
  },
  {
   "name":"KIWOOM 25-09 회사채(AA-이상)액티브",
@@ -3793,7 +3793,7 @@
   "bm":{
    "bm_name":"KIS 2509 만기형 크레딧 종합채권 지수(AA-이상)(총수익지수)"
   },
-  "listed":true
+  "listed":false
  },
  {
   "name":"KODEX 27-12 회사채(AA-이상)액티브",
