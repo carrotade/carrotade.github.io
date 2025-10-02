@@ -1387,12 +1387,18 @@
    "distribution":"회계기간 종료일",
    "dynamic":[
     {
+     "date":"2025-10-09",
+     "price":"57610",
+     "nav":"57628.199",
+     "marketcap":"33079000000"
+    },
+    {
      "date":"2025-10-01",
      "price":"57690",
      "nav":"57543.801",
      "marketcap":"33030000000",
      "ytm":"2.97",
-     "duration":"8.14"
+     "duration":"8.01"
     },
     {
      "date":"2025-09-30",
@@ -1415,11 +1421,6 @@
      "price":"57475",
      "nav":"57660.422",
      "marketcap":"33097000000"
-    },
-    {
-     "date":"2025-09-26",
-     "ytm":"2.94",
-     "duration":"8.16"
     }
    ]
   },
@@ -2494,11 +2495,11 @@
     {
      "date":"2025-10-02",
      "ytm":"2.67",
-     "duration":"0.30",
-     "price":"54755",
-     "nav":"54733",
-     "volume":"317440",
-     "marketcap":"2796867829267"
+     "duration":"0.31",
+     "price":"54775",
+     "nav":"54738",
+     "volume":"374074",
+     "marketcap":"2797133649770"
     },
     {
      "date":"2025-10-01",
@@ -2698,12 +2699,12 @@
    "dynamic":[
     {
      "date":"2025-10-02",
-     "ytm":"2.55",
+     "ytm":"2.54",
      "duration":"0.25",
-     "price":"52460",
-     "nav":"52444",
-     "volume":"2614",
-     "marketcap":"121986677097"
+     "price":"52475",
+     "nav":"52451",
+     "volume":"2761",
+     "marketcap":"122002921983"
     },
     {
      "date":"2025-10-01",
@@ -2966,7 +2967,9 @@
    "dynamic":[
     {
      "date":"2025-10-02",
-     "ytm":"2.88"
+     "ytm":"2.88",
+     "price":"52295.0",
+     "nav":"52253.19"
     },
     {
      "date":"2025-10-01",
@@ -3300,8 +3303,8 @@
   "provider":{
    "info_url":"https://www.bnkasset.co.kr/product/mo_view4.aspx?fund_cd=70006&pgbn=8",
    "fundfee":"0.1",
-   "listing_date":"2024-12-03",
-   "distribution":"회계기간종료일",
+   "listing_date":null,
+   "distribution":"",
    "dynamic":[
     {
      "date":"2025-10-01",
@@ -3379,7 +3382,7 @@
    ]
   },
   "bm":{
-   "bm_name":"KAP26-06특수채총수익지수(AAA이상)"
+   "bm_name":""
   },
   "listed":true
  },
@@ -3498,6 +3501,13 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2025-10-02",
+     "price":"52635",
+     "marketcap":"237071999999",
+     "ytm":"2.683",
+     "duration":"1.092"
+    },
+    {
      "date":"2025-10-01",
      "price":"52635",
      "nav":"52565.80",
@@ -3530,12 +3540,6 @@
      "marketcap":"237036000000",
      "ytm":"2.673",
      "duration":"1.064"
-    },
-    {
-     "date":"2025-09-26",
-     "price":"52560",
-     "nav":"52557.93",
-     "volume":"16808"
     }
    ]
   },
