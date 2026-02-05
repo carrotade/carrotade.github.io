@@ -707,7 +707,7 @@
    "dynamic":[
     {
      "date":"2026-02-05",
-     "ytm":"3.68",
+     "ytm":"3.65",
      "duration":"6.42"
     },
     {
@@ -790,7 +790,7 @@
    "dynamic":[
     {
      "date":"2026-02-05",
-     "ytm":"3.64",
+     "ytm":"3.62",
      "duration":"16.95"
     },
     {
@@ -1171,7 +1171,7 @@
    "dynamic":[
     {
      "date":"2026-02-05",
-     "marketcap":"171300000000"
+     "marketcap":"171200000000"
     },
     {
      "date":"2025-10-13",
@@ -1411,7 +1411,7 @@
    "dynamic":[
     {
      "date":"2026-02-05",
-     "marketcap":"21600000000"
+     "marketcap":"21700000000"
     },
     {
      "date":"2025-10-13",
@@ -1830,7 +1830,7 @@
    "dynamic":[
     {
      "date":"2026-02-05",
-     "marketcap":"540400000000"
+     "marketcap":"540500000000"
     },
     {
      "date":"2025-10-13",
@@ -1906,7 +1906,7 @@
    "dynamic":[
     {
      "date":"2026-02-05",
-     "marketcap":"907900000000"
+     "marketcap":"907800000000"
     },
     {
      "date":"2025-10-13",
@@ -3448,6 +3448,15 @@
    "retirement_pension":true,
    "dynamic":[
     {
+     "date":"2026-02-04",
+     "price":"52475",
+     "nav":"52472.69",
+     "volume":"658",
+     "marketcap":"215663000000",
+     "ytm":"3.053",
+     "duration":"0.654"
+    },
+    {
      "date":"2025-10-12",
      "price":"52620",
      "marketcap":"279881000000",
@@ -3469,13 +3478,6 @@
     },
     {
      "date":"2025-10-08",
-     "price":"52635",
-     "marketcap":"237071999999",
-     "ytm":"2.683",
-     "duration":"1.092"
-    },
-    {
-     "date":"2025-10-07",
      "price":"52635",
      "marketcap":"237071999999",
      "ytm":"2.683",
@@ -3775,6 +3777,256 @@
   },
   "bm":{
    "bm_name":"KAP 27-12 회사채 총수익 지수(AA- 이상)"
+  },
+  "listed":true
+ },
+ {
+  "name":"HANARO 27-06 회사채(AA-이상)액티브",
+  "basic":{
+   "maturity":"27-06",
+   "kind":"회사채",
+   "credit_rating":"AA-",
+   "currency":"KRW"
+  },
+  "provider":{},
+  "general":{
+   "code":"0091M0",
+   "info_url":"https://finance.naver.com/item/main.naver?code=0091M0",
+   "fundfee":"0.02",
+   "dynamic":[
+    {
+     "date":"2026-02-05",
+     "marketcap":"103600000000"
+    }
+   ]
+  },
+  "listed":true
+ },
+ {
+  "name":"HANARO 26-12 은행채(AA+이상)액티브",
+  "basic":{
+   "maturity":"26-12",
+   "kind":"은행채",
+   "credit_rating":"AA+",
+   "currency":"KRW"
+  },
+  "provider":{},
+  "general":{
+   "code":"0123S0",
+   "info_url":"https://finance.naver.com/item/main.naver?code=0123S0",
+   "fundfee":"0.02",
+   "dynamic":[
+    {
+     "date":"2026-02-05",
+     "marketcap":"61700000000"
+    }
+   ]
+  },
+  "listed":true
+ },
+ {
+  "name":"HK 26-12 회사채(AA-이상)액티브",
+  "basic":{
+   "maturity":"26-12",
+   "kind":"회사채",
+   "credit_rating":"AA-",
+   "currency":"KRW"
+  },
+  "provider":{},
+  "general":{
+   "code":"0000Y0",
+   "info_url":"https://finance.naver.com/item/main.naver?code=0000Y0",
+   "fundfee":"0.065",
+   "dynamic":[
+    {
+     "date":"2026-02-05",
+     "marketcap":"121300000000"
+    }
+   ]
+  },
+  "listed":true
+ },
+ {
+  "name":"KODEX 26-12 금융채(AA-이상)액티브",
+  "basic":{
+   "maturity":"26-12",
+   "kind":"금융채",
+   "credit_rating":"AA-",
+   "currency":"KRW"
+  },
+  "provider":{
+   "info_url":"https://www.samsungfund.com/etf/product/view.do?id=2ETFS7",
+   "fundfee":"0.090",
+   "code":"0117L0",
+   "listing_date":"2025-10-28",
+   "distribution":"지급\r\n(지급 기준일 : 매년 12월 15일)\r\n※ 지급 기준일은 참고사항으로, 실제 지급일은 아래 '분배금 지급현황'을 확인",
+   "personal_pension":true,
+   "retirement_pension":true,
+   "dynamic":[
+    {
+     "date":"2026-02-05",
+     "ytm":"2.79",
+     "duration":"0.81"
+    },
+    {
+     "date":"2026-02-04",
+     "price":"10000",
+     "nav":"9992.16",
+     "volume":"50029"
+    }
+   ]
+  },
+  "general":{
+   "code":"0117L0",
+   "info_url":"https://finance.naver.com/item/main.naver?code=0117L0",
+   "fundfee":"0.09",
+   "dynamic":[
+    {
+     "date":"2026-02-05",
+     "marketcap":"2077700000000"
+    }
+   ]
+  },
+  "bm":{
+   "bm_name":"KAP 26-12 금융채 총수익 지수(AA- 이상)"
+  },
+  "listed":true
+ },
+ {
+  "name":"RISE 26-11 회사채(AA-이상)액티브",
+  "basic":{
+   "maturity":"26-11",
+   "kind":"회사채",
+   "credit_rating":"AA-",
+   "currency":"KRW"
+  },
+  "provider":{
+   "info_url":"https://www.riseetf.co.kr/prod/finderDetail/44J4"
+  },
+  "general":{
+   "code":"0122W0",
+   "info_url":"https://finance.naver.com/item/main.naver?code=0122W0",
+   "fundfee":"0.05",
+   "dynamic":[
+    {
+     "date":"2026-02-05",
+     "marketcap":"276100000000"
+    }
+   ]
+  },
+  "listed":true
+ },
+ {
+  "name":"TIGER 28-04 회사채(A+이상)액티브",
+  "basic":{
+   "maturity":"28-04",
+   "kind":"회사채",
+   "credit_rating":"A+",
+   "currency":"KRW"
+  },
+  "provider":{},
+  "general":{
+   "code":"0094K0",
+   "info_url":"https://finance.naver.com/item/main.naver?code=0094K0",
+   "fundfee":"0.1",
+   "dynamic":[
+    {
+     "date":"2026-02-05",
+     "marketcap":"282500000000"
+    }
+   ]
+  },
+  "listed":true
+ },
+ {
+  "name":"SOL 27-12 회사채(AA-이상)액티브",
+  "provider":{
+   "info_url":"https://www.soletf.com/ko/fund/etf/211095",
+   "fundfee":"0.05",
+   "listing_date":"2025-08-19",
+   "distribution":"연 1회 지급",
+   "personal_pension":true,
+   "retirement_pension":true,
+   "code":"0092C0",
+   "dynamic":[
+    {
+     "date":"2026-02-05",
+     "ytm":"3.53"
+    },
+    {
+     "date":"2026-02-04",
+     "price":"49670.0",
+     "nav":"49634.24",
+     "ytm":"3.48",
+     "duration":"1.74"
+    }
+   ]
+  },
+  "basic":{
+   "maturity":"27-12",
+   "kind":"회사채",
+   "credit_rating":"AA-",
+   "currency":"KRW"
+  },
+  "general":{
+   "code":"0092C0",
+   "info_url":"https://finance.naver.com/item/main.naver?code=0092C0",
+   "fundfee":"0.05",
+   "dynamic":[
+    {
+     "date":"2026-02-05",
+     "marketcap":"194300000000"
+    }
+   ]
+  },
+  "bm":{
+   "bm_name":"KAP 27-12 크레딧 채권지수(AA-이상, 총수익)"
+  },
+  "listed":true
+ },
+ {
+  "name":"KODEX 28-12 회사채(AA-이상)액티브",
+  "basic":{
+   "maturity":"28-12",
+   "kind":"회사채",
+   "credit_rating":"AA-",
+   "currency":"KRW"
+  },
+  "provider":{
+   "info_url":"https://www.samsungfund.com/etf/product/view.do?id=2ETFS8",
+   "fundfee":"0.090",
+   "code":"0119H0",
+   "listing_date":"2025-11-04",
+   "distribution":"지급\r\n(지급 기준일 : 매년 12월 15일)\r\n※ 지급 기준일은 참고사항으로, 실제 지급일은 아래 '분배금 지급현황'을 확인",
+   "personal_pension":true,
+   "retirement_pension":true,
+   "dynamic":[
+    {
+     "date":"2026-02-05",
+     "ytm":"4.52",
+     "duration":"3.14"
+    },
+    {
+     "date":"2026-02-04",
+     "price":"9895",
+     "nav":"9879.41",
+     "volume":"21632"
+    }
+   ]
+  },
+  "general":{
+   "code":"0119H0",
+   "info_url":"https://finance.naver.com/item/main.naver?code=0119H0",
+   "fundfee":"0.09",
+   "dynamic":[
+    {
+     "date":"2026-02-05",
+     "marketcap":"173800000000"
+    }
+   ]
+  },
+  "bm":{
+   "bm_name":"KAP 28-12 회사채 총수익 지수(AA- 이상)"
   },
   "listed":true
  }
