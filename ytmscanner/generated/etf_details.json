@@ -2221,6 +2221,19 @@
    "distribution":"지급(매년)",
    "dynamic":[
     {
+     "date":"2026-02-22",
+     "ytm":"3.03",
+     "duration":"0.475585",
+     "nav":"10566.77"
+    },
+    {
+     "date":"2026-02-20",
+     "ytm":"3.03",
+     "duration2":"0.57",
+     "price":"10560",
+     "nav":"10566.77"
+    },
+    {
      "date":"2026-02-19",
      "ytm":"3.02",
      "duration2":"0.58",
@@ -2239,18 +2252,6 @@
      "ytm":"3.0169564141",
      "duration":"0.494255",
      "nav":"0"
-    },
-    {
-     "date":"2026-02-16",
-     "ytm":"3.016950457",
-     "duration":"0.494255",
-     "nav":"0"
-    },
-    {
-     "date":"2026-02-15",
-     "ytm":"3.0169444986",
-     "duration":"0.494255",
-     "nav":"10563.37"
     }
    ]
   },
@@ -3269,9 +3270,17 @@
   "provider":{
    "info_url":"https://www.bnkasset.co.kr/product/mo_view4.aspx?fund_cd=70006&pgbn=8",
    "fundfee":"0.1",
-   "listing_date":null,
-   "distribution":"",
+   "listing_date":"2024-12-03",
+   "distribution":"회계기간종료일",
    "dynamic":[
+    {
+     "date":"2026-02-22",
+     "ytm":"2.73",
+     "duration":"0.21",
+     "nav":"51344.08",
+     "marketcap":"108130640007",
+     "price":"51355.00"
+    },
     {
      "date":"2026-02-18",
      "ytm":"2.73",
@@ -3303,14 +3312,6 @@
      "nav":"51317.9",
      "marketcap":"108075504956",
      "price":"51340.00"
-    },
-    {
-     "date":"2026-02-12",
-     "ytm":"2.73",
-     "duration":"0.23",
-     "nav":"51306.42",
-     "marketcap":"108051320161",
-     "price":"51335.00"
     }
    ]
   },
@@ -3348,7 +3349,7 @@
    ]
   },
   "bm":{
-   "bm_name":""
+   "bm_name":"KAP26-06특수채총수익지수(AAA이상)"
   },
   "listed":true
  },
