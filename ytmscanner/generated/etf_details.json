@@ -3302,9 +3302,17 @@
   "provider":{
    "info_url":"https://www.bnkasset.co.kr/product/mo_view4.aspx?fund_cd=70006&pgbn=8",
    "fundfee":"0.1",
-   "listing_date":null,
-   "distribution":"",
+   "listing_date":"2024-12-03",
+   "distribution":"회계기간종료일",
    "dynamic":[
+    {
+     "date":"2026-03-04",
+     "ytm":"2.72",
+     "duration":"0.18",
+     "nav":"51381.36",
+     "marketcap":"108209150014",
+     "price":"51390.00"
+    },
     {
      "date":"2026-03-02",
      "ytm":"2.73",
@@ -3336,14 +3344,6 @@
      "nav":"51351.73",
      "marketcap":"108146736121",
      "price":"51365.00"
-    },
-    {
-     "date":"2026-02-22",
-     "ytm":"2.73",
-     "duration":"0.21",
-     "nav":"51344.08",
-     "marketcap":"108130640007",
-     "price":"51355.00"
     }
    ]
   },
@@ -3381,7 +3381,7 @@
    ]
   },
   "bm":{
-   "bm_name":""
+   "bm_name":"KAP26-06특수채총수익지수(AAA이상)"
   },
   "listed":true
  },
